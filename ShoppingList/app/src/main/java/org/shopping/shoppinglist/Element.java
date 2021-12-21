@@ -6,7 +6,7 @@ import android.util.Log;
 import java.util.ArrayList;
 
 public class Element {
-    public static final String             _TAG = "ElementLog";
+    public static final String             _TAG = "Element";
                   ArrayList<String>        _ListFields;
                   ArrayList<Integer>       _ListOfLocations;
 
