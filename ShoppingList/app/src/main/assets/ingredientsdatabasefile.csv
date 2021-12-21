@@ -1,0 +1,1034 @@
+MNU_0000;Day;Menu;;;;;;
+MNU_0001;Samedi;Accompagnement Tristan;;;;;;
+MNU_0002;Samedi;Aubergine Farcie;;;;;;
+MNU_0003;Samedi;Bavette Frites Haricots Verts;;;;;;
+MNU_0004;Samedi;Boeuf Bourguignon;;;;;;
+MNU_0005;Samedi;Boudin Noir  aux Pommes;;;;;;
+MNU_0006;Samedi;Buffalo Wings;;;;;;
+MNU_0007;Samedi;Cabillaud Poireaux;;;;;;
+MNU_0008;Samedi;Cake Carotte Noix;;;;;;
+MNU_0009;Samedi;Cake Chocolat Noisettes;;;;;;
+MNU_0010;Samedi;Cake Fromage Blanc;;;;;;
+MNU_0011;Samedi;Cassoulet;;;;;;
+MNU_0012;Samedi;Chiconflette;;;;;;
+MNU_0013;Samedi;Cotes Agneau Haricots Vert Flageolets;;;;;;
+MNU_0014;Samedi;Cougettes Farcies Quinoa Noisette;;;;;;
+MNU_0015;Samedi;Creme Brulee;;;;;;
+MNU_0016;Samedi;Crepes Galette;;;;;;
+MNU_0017;Samedi;Crepine De Porc;;;;;;
+MNU_0018;Samedi;Croissant Jambon Curry;;;;;;
+MNU_0019;Samedi;Croziflette;;;;;;
+MNU_0020;Samedi;Curry Indien Curry Legume Poulet;;;;;;
+MNU_0021;Samedi;Effiloché de boeuf ;;;;;;
+MNU_0022;Samedi;Endives gratinées au jambon et à la fourme d'Ambert;;;;;;
+MNU_0023;Samedi;Fajitas;;;;;;
+MNU_0024;Samedi;Fleur De Reblochon;;;;;;
+MNU_0025;Samedi;Fondue Savoyarde;;;;;;
+MNU_0026;Samedi;Fritata Epinards Champignons;;;;;;
+MNU_0027;Samedi;Gratin Choufleur Curry Lait Coco Jambon;;;;;;
+MNU_0028;Samedi;Ham Cheese Omelet Roll;;;;;;
+MNU_0029;Samedi;Hamburger;;;;;;
+MNU_0030;Samedi;Iles flottantes;;;;;;
+MNU_0031;Samedi;Jambon Poireaux;;;;;;
+MNU_0032;Samedi;Jalapeno Poppers;;;;;;
+MNU_0033;Samedi;Kebab;;;;;;
+MNU_0034;Samedi;Kebab Agneau Poulet;;;;;;
+MNU_0035;Samedi;Lapin Moutarde;;;;;;
+MNU_0036;Samedi;Lotte Armoricaine;;;;;;
+MNU_0037;Samedi;Meatloaf;;;;;;
+MNU_0038;Samedi;Mille Feuilles Aux Epinards;;;;;;
+MNU_0039;Samedi;Onglet Frites;;;;;;
+MNU_0040;Samedi;Pâtes Thai;;;;;;
+MNU_0041;Samedi;Pavés Cabillots Curry Citron;;;;;;
+MNU_0042;Samedi;Pois Chiche Mijote Chorizo Poivron;;;;;;
+MNU_0043;Samedi;Porc Caramel Cinq Epices;;;;;;
+MNU_0044;Samedi;Poulet Au Citron;;;;;;
+MNU_0045;Samedi;Poulet Frites Haricots Verts;;;;;;
+MNU_0046;Samedi;Poulet Haricot Frites;;;;;;
+MNU_0047;Samedi;Raclette;;;;;;
+MNU_0048;Samedi;Ragout Mouton;;;;;;
+MNU_0049;Samedi;Roti Porc Pruneaux;;;;;;
+MNU_0050;Samedi;Roule Courgette Saumon Fromage;;;;;;
+MNU_0051;Samedi;Salad Curried Chicken;;;;;;
+MNU_0052;Samedi;Salade Haricots VertFeta;;;;;;
+MNU_0053;Samedi;Salade Mangue Avocat Pois Chiche;;;;;;
+MNU_0054;Samedi;Salade Pâte Roquette;;;;;;
+MNU_0055;Samedi;Salade Poulet Pomme Comte;;;;;;
+MNU_0056;Samedi;Salade Saumon Fume Pomme DeTerre;;;;;;
+MNU_0057;Samedi;Sauce Orange;;;;;;
+MNU_0058;Samedi;Saumon Epinard Boursin;;;;;;
+MNU_0059;Samedi;Soufle Fromage;;;;;;
+MNU_0060;Samedi;Spanakopita;;;;;;
+MNU_0061;Samedi;Spinach Dip;;;;;;
+MNU_0062;Samedi;Tagliatelle De Legumes Aux 2 Fromages Poulet;;;;;;
+MNU_0063;Samedi;Tarte Camembert Lardon;;;;;;
+MNU_0064;Samedi;Tarte Camembert Panceta;;;;;;
+MNU_0065;Samedi;Tarte Pastrami Reblochon Carotte;;;;;;
+MNU_0066;Samedi;Tartiflette;;;;;;
+MNU_0067;Samedi;Tian Courgette Miel Epices;;;;;;
+MNU_0068;Samedi;Tian Legume Hiver;;;;;;
+MNU_0069;Samedi;Tomates Farcies;;;;;;
+MNU_0070;Dimanche;Accompagnement Tristan;;;;;;
+MNU_0071;Dimanche;Aubergine Farcie;;;;;;
+MNU_0072;Dimanche;Bavette Frites Haricots Verts;;;;;;
+MNU_0073;Dimanche;Boeuf Bourguignon;;;;;;
+MNU_0074;Dimanche;Boudin Noir  aux Pommes;;;;;;
+MNU_0075;Dimanche;Buffalo Wings;;;;;;
+MNU_0076;Dimanche;Cabillaud Poireaux;;;;;;
+MNU_0077;Dimanche;Cake Carotte Noix;;;;;;
+MNU_0078;Dimanche;Cake Chocolat Noisettes;;;;;;
+MNU_0079;Dimanche;Cake Fromage Blanc;;;;;;
+MNU_0080;Dimanche;Cassoulet;;;;;;
+MNU_0081;Dimanche;Chiconflette;;;;;;
+MNU_0082;Dimanche;Cotes Agneau Haricots Vert Flageolets;;;;;;
+MNU_0083;Dimanche;Cougettes Farcies Quinoa Noisette;;;;;;
+MNU_0084;Dimanche;Creme Brulee;;;;;;
+MNU_0085;Dimanche;Crepes Galette;;;;;;
+MNU_0086;Dimanche;Crepine De Porc;;;;;;
+MNU_0087;Dimanche;Croissant Jambon Curry;;;;;;
+MNU_0088;Dimanche;Croziflette;;;;;;
+MNU_0089;Dimanche;Curry Indien Curry Legume Poulet;;;;;;
+MNU_0090;Dimanche;Effiloché de boeuf ;;;;;;
+MNU_0091;Dimanche;Endives gratinées au jambon et à la fourme d'Ambert;;;;;;
+MNU_0092;Dimanche;Fajitas;;;;;;
+MNU_0093;Dimanche;Fleur De Reblochon;;;;;;
+MNU_0094;Dimanche;Fondue Savoyarde;;;;;;
+MNU_0095;Dimanche;Fritata Epinards Champignons;;;;;;
+MNU_0096;Dimanche;Gratin Choufleur Curry Lait Coco Jambon;;;;;;
+MNU_0097;Dimanche;Ham Cheese Omelet Roll;;;;;;
+MNU_0098;Dimanche;Hamburger;;;;;;
+MNU_0099;Dimanche;Iles flottantes;;;;;;
+MNU_0100;Dimanche;Jalapeno Poppers;;;;;;
+MNU_0101;Dimanche;Jambon Poireaux;;;;;;
+MNU_0102;Dimanche;Kebab;;;;;;
+MNU_0103;Dimanche;Kebab Agneau Poulet;;;;;;
+MNU_0104;Dimanche;Lapin Moutarde;;;;;;
+MNU_0105;Dimanche;Lotte Armoricaine;;;;;;
+MNU_0106;Dimanche;Meatloaf;;;;;;
+MNU_0107;Dimanche;Mille Feuilles Aux Epinards;;;;;;
+MNU_0108;Dimanche;Oeuf cocotte;;;;;;
+MNU_0109;Dimanche;Onglet Frites;;;;;;
+MNU_0110;Dimanche;Pâtes Thai;;;;;;
+MNU_0111;Dimanche;Pavés Cabillots Curry Citron;;;;;;
+MNU_0112;Dimanche;Pois Chiche Mijote Chorizo Poivron;;;;;;
+MNU_0113;Dimanche;Porc Caramel Cinq Epices;;;;;;
+MNU_0114;Dimanche;Poulet Au Citron;;;;;;
+MNU_0115;Dimanche;Poulet Frites Haricots Verts;;;;;;
+MNU_0116;Dimanche;Poulet Haricot Frites;;;;;;
+MNU_0117;Dimanche;Raclette;;;;;;
+MNU_0118;Dimanche;Ragout Mouton;;;;;;
+MNU_0119;Dimanche;Roti Porc Pruneaux;;;;;;
+MNU_0120;Dimanche;Roule Courgette Saumon Fromage;;;;;;
+MNU_0121;Dimanche;Salad Curried Chicken;;;;;;
+MNU_0122;Dimanche;Salade Haricots VertFeta;;;;;;
+MNU_0123;Dimanche;Salade Mangue Avocat Pois Chiche;;;;;;
+MNU_0124;Dimanche;Salade Pâte Roquette;;;;;;
+MNU_0125;Dimanche;Salade Poulet Pomme Comte;;;;;;
+MNU_0126;Dimanche;Salade Saumon Fume Pomme DeTerre;;;;;;
+MNU_0127;Dimanche;Sauce Orange;;;;;;
+MNU_0128;Dimanche;Saumon Epinard Boursin;;;;;;
+MNU_0129;Dimanche;Soufle Fromage;;;;;;
+MNU_0130;Dimanche;Spanakopita;;;;;;
+MNU_0131;Dimanche;Spinach Dip;;;;;;
+MNU_0132;Dimanche;Tagliatelle De Legumes Aux 2 Fromages Poulet;;;;;;
+MNU_0133;Dimanche;Tarte Camembert Lardon;;;;;;
+MNU_0134;Dimanche;Tarte Camembert Panceta;;;;;;
+MNU_0135;Dimanche;Tarte Pastrami Reblochon Carotte;;;;;;
+MNU_0136;Dimanche;Tartiflette;;;;;;
+MNU_0137;Dimanche;Tian Courgette Miel Epices;;;;;;
+MNU_0138;Dimanche;Tian Legume Hiver;;;;;;
+MNU_0139;Dimanche;Tomates Farcies;;;;;;
+MNU_0140;Lundi;Cabillaud Poireaux;;;;;;
+MNU_0141;Lundi;Cake Thon;;;;;;
+MNU_0142;Lundi;Quiche Deux Saumons;;;;;;
+MNU_0143;Lundi;Quiche Thon Tomate;;;;;;
+MNU_0144;Lundi;Saumon Epinard Boursin;;;;;;
+MNU_0145;Lundi;Saumon Haricots Verts Sirop Erable;;;;;;
+MNU_0146;Lundi;Saumon Riz;;;;;;
+MNU_0147;Lundi;Tarte Sardine Coco;;;;;;
+MNU_0148;Mardi;Cake Chèvre Courgette;;;;;;
+MNU_0149;Mardi;Fajitas;;;;;;
+MNU_0150;Mardi;Flammenkueche Poireaux;;;;;;
+MNU_0151;Mardi;Quiche Broccoli Chèvre;;;;;;
+MNU_0152;Mardi;Quiche Broccoli Des Jambon;;;;;;
+MNU_0153;Mardi;Quiche Courgette Fromage Frais;;;;;;
+MNU_0154;Mardi;Salade Saumon Fume Pomme DeTerre;;;;;;
+MNU_0155;Mardi;Tressse Broccoli;;;;;;
+MNU_0156;Mercredi;Chicken Casserole;;;;;;
+MNU_0157;Mercredi;Chili Con Carne;;;;;;
+MNU_0158;Mercredi;Couscous;;;;;;
+MNU_0159;Mercredi;Crumble Potiron Courgettes;;;;;;
+MNU_0160;Mercredi;Curry Indien Curry Legume Poulet;;;;;;
+MNU_0161;Mercredi;Fish And Ships;;;;;;
+MNU_0162;Mercredi;Poulet Coco Curry;;;;;;
+MNU_0163;Mercredi;Quiche Petit Pois Jambon Menthe;;;;;;
+MNU_0164;Jeudi;Crozet Poireaux Champignon Lardon;;;;;;
+MNU_0165;Jeudi;Pâtes Aubergine Champignons;;;;;;
+MNU_0166;Jeudi;Pâtes Carbo;;;;;;
+MNU_0167;Jeudi;Pâtes Feta Epinards;;;;;;
+MNU_0168;Jeudi;Pâtes lardons crevettes;;;;;;
+MNU_0169;Vendredi;Pizza Legumes Grillés;;;;;;
+MNU_0170;Vendredi;Pizza Jambon Cru Aubergine;;;;;;
+MNU_0171;Vendredi;Pizza Flammekeuche Raisins Secs;;;;;;
+MNU_0172;Vendredi;Pizza Calzone Chorizo;;;;;;
+MNU_0173;Vendredi;Pizza Asperge Epinards;;;;;;
+MNU_0174;Vendredi;Pizza Artichaud Gorgonzola;;;;;;
+MNU_0175;Vendredi;Pizza Ananas;;;;;;
+MNU_0176;Vendredi;Pizza 4 Fromages;;;;;;
+MNU_0177;Cook Book;Courgette au parmesan;;;;;;
+MNU_0178;Cook Book;Pâtes lardons crevettes;;;;;;
+MNU_0179;Cook Book;Piperade;;;;;;
+MNU_0180;Cook Book;Poulet à l'ail;;;;;;
+MNU_0181;Cook Book;Quiche aux brocolis et jambon;;;;;;
+MNU_0182;Cook Book;Salade Mangue Avocat Pois Chiche;;;;;;
+MNU_0183;Cook Book;Tarte épaisse aux deux saumons;;;;;;
+MNU_0184;Cook Book;Courgettes à la Tylli;;;;;;
+MNU_0185;Cook Book;Gratin Tomates-Aubergines;;;;;;
+MNU_0186;Cook Book;Carrot cake;;;;;;
+MNU_0187;Cook Book;Cranberry Sauce;;;;;;
+MNU_0188;Cook Book;Buttery Herb Stuffing;;;;;;
+MNU_0189;Cook Book;Pecan Pie Bars;;;;;;
+MNU_0190;Cook Book;Pumpkin Pie (No fail, home made);;;;;;
+MNU_0191;Cook Book;Turkey Gravy;;;;;;
+MNU_0192;Accompagnements;Accompagnement Tristan;;;;;;
+MNU_0193;Accompagnements;Pain de mais;;;;;;
+MNU_0194;Accompagnements;Riz sauté aux noix de cajou;;;;;;
+MNU_0195;Accompagnements;Salade aux pommes et chèvre chaud;;;;;;
+MNU_0196;Accompagnements;Salade Haricots Vert Feta;;;;;;
+MNU_0197;Accompagnements;Salade Mangue Avocat Pois Chiche;;;;;;
+MNU_0198;Accompagnements;Salade Pâte Roquette;;;;;;
+MNU_0199;Accompagnements;Sour cream;;;;;;
+;;;;;;;;
+IGD_0000;MealDisplayNameAndKey;Ingredient;Quantity;Unit;Caterory;#Location#Alphabétique#;#Location#Super-U Bihorel#;#Location#Carrefour MSA#
+IGD_0001;Accompagnement Tristan;Carotte;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0002;Accompagnement Tristan;Gingembre;1;CAS;Cuisine du monde;0;5;9
+IGD_0003;Accompagnement Tristan;Oignon;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0004;Accompagnement Tristan;Sauce soja;3;CAS;Cuisine du monde;0;5;9
+IGD_0005;Aubergine Farcie;Ail;4;Gousse(s);Fruits et légumes;0;7;5
+IGD_0006;Aubergine Farcie;Aubergine;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0007;Aubergine Farcie;Chipolata;8;Unité(s);Charcuterie Fraiche;0;4;8
+IGD_0008;Aubergine Farcie;Huile d'olive;1.5;CAS;Condiments;0;4;11
+IGD_0009;Aubergine Farcie;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0010;Bavette Frites Haricots Verts;Bavette;800;Gr;Viande;0;6;7
+IGD_0011;Bavette Frites Haricots Verts;Haricots verts;1;Kg;Fruits et légumes;0;7;5
+IGD_0012;Bavette Frites Haricots Verts;Pomme de terre;800;Gr;Fruits et légumes;0;7;5
+IGD_0013;Boeuf Bourguignon;Beurre;40;Gr;Fromage;0;12;15
+IGD_0014;Boeuf Bourguignon;Bouquet garni;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0015;Boeuf Bourguignon;Carotte;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0016;Boeuf Bourguignon;Champignon de paris;200;Gr;Fruits et légumes;0;7;5
+IGD_0017;Boeuf Bourguignon;Huile d'arachide;2;CAS;Condiments;0;4;11
+IGD_0018;Boeuf Bourguignon;Lardon;150;Gr;Charcuterie Frigo;0;10;16
+IGD_0019;Boeuf Bourguignon;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0020;Boeuf Bourguignon;Viande-Gîte;1;Kg;Viande;0;6;7
+IGD_0021;Boeuf Bourguignon;Vin rouge fort degré;1;Bouteille;Vin;0;2;9
+IGD_0022;Boudin Noir  aux Pommes;Boudin noir;3;Unité(s);Charcuterie Fraiche;0;4;8
+IGD_0023;Boudin Noir  aux Pommes;Pommes;6;Unité(s);Fruits et légumes;0;7;5
+IGD_0024;Buffalo Wings;Ailes de poulet;1;Unité(s);Viande;0;6;7
+IGD_0025;Buffalo Wings;Bleu auvergne;1;Unité(s);Fromage;0;12;15
+IGD_0026;Buffalo Wings;Yaourt grec;1;Unité(s);Yaourt;0;12;13
+IGD_0027;Buffalo Wings;Yaourt velouté;1;Unité(s);Yaourt;0;12;13
+IGD_0028;Buttery Herb Stuffing;Bread cubes (bread toastes or stale;14;Cup(s);Boulangerie;0;11;2
+IGD_0029;Buttery Herb Stuffing;Butter unsalted;1;Cup(s);Fromage;0;12;15
+IGD_0030;Buttery Herb Stuffing;Celery diced;2;Cup(s);Fruits et légumes;0;7;5
+IGD_0031;Buttery Herb Stuffing;Chicken or vegetable stock;2.5;Cup(s);Aide à la cuisine;0;4;11
+IGD_0032;Buttery Herb Stuffing;Eggs large;2;Unité(s);Oeuf;0;11;15
+IGD_0033;Buttery Herb Stuffing;Garlic eminced clove;6;Gousse(s);Fruits et légumes;0;7;5
+IGD_0034;Buttery Herb Stuffing;Herb fresh for sprinkling;N/A;Some;Fruits et légumes;0;7;5
+IGD_0035;Buttery Herb Stuffing;Onion large and sweet diced;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0036;Buttery Herb Stuffing;Parsley fresh chopped;3;Tbs(s);Fruits et légumes;0;7;5
+IGD_0037;Buttery Herb Stuffing;Rosemary fresh chopped;3;Tbs(s);Fruits et légumes;0;7;5
+IGD_0038;Buttery Herb Stuffing;Sage fresh chopped;3;Tbs(s);Fruits et légumes;0;7;5
+IGD_0039;Buttery Herb Stuffing;Salt Kosher;N/A;Some;Condiments;0;4;11
+IGD_0040;Cabillaud Poireaux;Cabillaud;4;Unité(s);Poisson;0;8;6
+IGD_0041;Cabillaud Poireaux;Crème fraiche;4;CAS;Fromage;0;12;15
+IGD_0042;Cabillaud Poireaux;Huile d'olive;4;CAC;Condiments;0;4;11
+IGD_0043;Cabillaud Poireaux;Moutarde à l'ancienne;4;CAS;Condiments;0;4;11
+IGD_0044;Cabillaud Poireaux;Poireau;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0045;Cake Carotte Noix;Beurre;125;Gr;Fromage;0;12;15
+IGD_0046;Cake Carotte Noix;Bicarbonate de soude;0.5;CAC ;Autre;0;1;1
+IGD_0047;Cake Carotte Noix;Cannelle moulue;5.5;CAC;Epices;0;5;11
+IGD_0048;Cake Carotte Noix;Carotte;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0049;Cake Carotte Noix;Cerneaux de noix;2;Poignée(s);Fruits secs;0;5;5
+IGD_0050;Cake Carotte Noix;Farine;200;Gr;Préparation Gateau;0;4;10
+IGD_0051;Cake Carotte Noix;Levure;0.5;Unité(s);Préparation Gateau;0;4;10
+IGD_0052;Cake Carotte Noix;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0053;Cake Carotte Noix;Sel;1;Pincée(s);Condiments;0;4;11
+IGD_0054;Cake Carotte Noix;Sucre brun;125;Gr;Préparation Gateau;0;4;10
+IGD_0055;Cake Chèvre Courgette;Courgette;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0056;Cake Chèvre Courgette;Farine;150;Gr;Préparation Gateau;0;4;10
+IGD_0057;Cake Chèvre Courgette;Fromage chèvre;1;Unité(s);Fromage;0;12;15
+IGD_0058;Cake Chèvre Courgette;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0059;Cake Chèvre Courgette;Huile d'arachide;5;Cl;Condiments;0;4;11
+IGD_0060;Cake Chèvre Courgette;Lait;12.5;Cl;Lait;0;9;14
+IGD_0061;Cake Chèvre Courgette;Lardon;1;Unité(s);Charcuterie Frigo;0;10;16
+IGD_0062;Cake Chèvre Courgette;Levure;1;Unité(s);Préparation Gateau;0;4;10
+IGD_0063;Cake Chèvre Courgette;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0064;Cake Chocolat Noisettes;Brioche en tranche;1;Unité(s);Pain Brioche;0;3;3
+IGD_0065;Cake Chocolat Noisettes;Chocolat noir;200;Gr;Préparation Gateau;0;4;10
+IGD_0066;Cake Chocolat Noisettes;Crème liquide;20;Cl;Lait;0;9;14
+IGD_0067;Cake Chocolat Noisettes;Noisette;20;Gr;Fruits secs;0;5;5
+IGD_0068;Cake Chocolat Noisettes;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0069;Cake Chocolat Noisettes;Poudre de noisette;5;CAS;Fruits secs;0;5;5
+IGD_0070;Cake Chocolat Noisettes;Sucre en poudre;50;Gr;Préparation Gateau;0;4;10
+IGD_0071;Cake Fromage Blanc;Farine;1;CAS;Préparation Gateau;0;4;10
+IGD_0072;Cake Fromage Blanc;Fromage blanc;500;Gr;Fromage;0;12;15
+IGD_0073;Cake Fromage Blanc;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0074;Cake Fromage Blanc;Pâte brisée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0075;Cake Fromage Blanc;Sucre en poudre;200;Gr;Préparation Gateau;0;4;10
+IGD_0076;Cake Fromage Blanc;Sucre vanille;1;Unité(s);Préparation Gateau;0;4;10
+IGD_0077;Cake Thon;Farine;150;Gr;Préparation Gateau;0;4;10
+IGD_0078;Cake Thon;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0079;Cake Thon;Huile d'olive;5;Cl;Condiments;0;4;11
+IGD_0080;Cake Thon;Lait;12.5;Cl;Lait;0;9;14
+IGD_0081;Cake Thon;levure;1;Unité(s);Préparation Gateau;0;4;10
+IGD_0082;Cake Thon;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0083;Cake Thon;Thon;300;Gr;Conserves;0;4;9
+IGD_0084;Carrot cake;Baking powder;1;Tsp(s);Préparation Gateau;0;4;10
+IGD_0085;Carrot cake;Baking soda;1;Tsp(s);Préparation Gateau;0;4;10
+IGD_0086;Carrot cake;Butter softened (113g);0.5;Cup(s);Fromage;0;12;15
+IGD_0087;Carrot cake;Carrot shredded finely;3;Cup(s);Fruits et légumes;0;7;5
+IGD_0088;Carrot cake;Cinnamon grounded soda;1;Tsp(s);Epices;0;5;11
+IGD_0089;Carrot cake;Cream cheese softened (brick-style, not spreadable);226;Gr;Fromage;0;12;15
+IGD_0090;Carrot cake;Egg;4;Unité(s);Oeuf;0;11;15
+IGD_0091;Carrot cake;Flour (all purpose);2;Cup(s);Préparation Gateau;0;4;10
+IGD_0092;Carrot cake;Oil cooking;1;Cup(s);Condiments;0;4;11
+IGD_0093;Carrot cake;Salt;0.25;Tsp(s);Condiments;0;4;11
+IGD_0094;Carrot cake;Sugar;2;Cup(s);Préparation Gateau;0;4;10
+IGD_0095;Carrot cake;Sugar powered;500;Gr;Préparation Gateau;0;4;10
+IGD_0096;Carrot cake;Vanilla extract;1;Tsp(s);Préparation Gateau;0;4;10
+IGD_0097;Cassoulet;Ail;5;Gousse(s);Fruits et légumes;0;7;5
+IGD_0098;Cassoulet;Bouquet garni;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0099;Cassoulet;Carotte;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0100;Cassoulet;Chapelure;2;CAS;Préparation Gateau;0;4;10
+IGD_0101;Cassoulet;Clou de Girofle;1;Unité(s);Epices;0;5;11
+IGD_0102;Cassoulet;Confit de canard;400;Gr;Viande;0;6;7
+IGD_0103;Cassoulet;Couenne de porc;100;Gr;Viande;0;6;7
+IGD_0104;Cassoulet;Echine de porc;300;Gr;Viande;0;6;7
+IGD_0105;Cassoulet;Epaule d’agneau;300;Gr;Viande;0;6;7
+IGD_0106;Cassoulet;Graisse Canard;50;Gr;Viande;0;6;7
+IGD_0107;Cassoulet;Haricots blancs;500;Gr;Conserves;0;4;9
+IGD_0108;Cassoulet;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0109;Cassoulet;Poitrine de porc salé;250;Gr;Charcuterie Fraiche;0;4;8
+IGD_0110;Cassoulet;Saucisse de Toulouse;300;Gr;Charcuterie Fraiche;0;4;8
+IGD_0111;Cassoulet;Tomates (concentré);1;CAS;Sauces Pâtes;0;4;9
+IGD_0112;Chicken Casserole;Légumes verts congelés;1;Sachet;Congélateurs;0;12;12
+IGD_0113;Chicken Casserole;Poulet (escalope);4;Unité(s);Viande;0;6;7
+IGD_0114;Chicken Casserole;Soupe au champignon;1;Unité(s);Conserves;0;4;9
+IGD_0115;Chicken Casserole;Tuc;1;Unité(s);Apéritif;0;2;9
+IGD_0116;Chiconflette;Crème fraiche;15;Cl;Fromage;0;12;15
+IGD_0117;Chiconflette;Endives;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0118;Chiconflette;Lardon;150;Gr;Charcuterie Frigo;0;10;16
+IGD_0119;Chiconflette;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0120;Chiconflette;Reblochon;1;Unité(s);Fromage;0;12;15
+IGD_0121;Chiconflette;Vin blanc;5;Cl;Vin;0;2;9
+IGD_0122;Chili Con Carne;Carotttes (petites);1;Sachet;Fruits et légumes;0;7;5
+IGD_0123;Chili Con Carne;Crème fraiche;5;Cl;Fromage;0;12;15
+IGD_0124;Chili Con Carne;Epices;1;Sachet;Epices;0;5;11
+IGD_0125;Chili Con Carne;Gruyère rapé;1;sachet;Fromage;0;12;15
+IGD_0126;Chili Con Carne;Haricot rouge (boite);1;Boite(s);Conserves;0;4;9
+IGD_0127;Chili Con Carne;Maïs (boite);1;Boite(s);Conserves;0;4;9
+IGD_0128;Chili Con Carne;Poivron rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0129;Chili Con Carne;Steak haché;500;Gr;Viande;0;6;7
+IGD_0130;Chili Con Carne;Tomates en boite;1;Unité(s);Conserves;0;4;9
+IGD_0131;Cotes Agneau Haricots Vert Flageolets;Cotes Agneau;600;Gr;Viande;0;6;7
+IGD_0132;Cotes Agneau Haricots Vert Flageolets;Flageolets;1;Boite(s);Conserves;0;4;9
+IGD_0133;Cotes Agneau Haricots Vert Flageolets;Haricots verts;800;Gr;Fruits et légumes;0;7;5
+IGD_0134;Cougettes Farcies Quinoa Noisette;Courgettes rondes;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0135;Cougettes Farcies Quinoa Noisette;Huile d'olive;3;CAS;Condiments;0;4;11
+IGD_0136;Cougettes Farcies Quinoa Noisette;Noisettes concasséess;75;Gr;Fruits secs;0;5;5
+IGD_0137;Cougettes Farcies Quinoa Noisette;Quinoa;100;Gr;Féculents;0;4;9
+IGD_0138;Courgette au parmesan;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0139;Courgette au parmesan;Copaux de parmesan;Beaucoup;N/A;Fromage;0;12;15
+IGD_0140;Courgette au parmesan;Courgette;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0141;Courgette au parmesan;Huile d'olive;1;CAS;Condiments;0;4;11
+IGD_0142;Courgette au parmesan;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0143;Courgette au parmesan;Poivron;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0144;Courgettes à la Tylli;Chèvre buche;1;Unité(s);Fromage;0;12;15
+IGD_0145;Courgettes à la Tylli;Courgettes;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0146;Courgettes à la Tylli;Miel;03-avr;CAS;Miel Confiture;0;3;3
+IGD_0147;Courgettes à la Tylli;Noisettes;too much is not enough;N/A;Préparation Gateau;0;4;10
+IGD_0148;Courgettes à la Tylli;Oignons;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0149;Courgettes à la Tylli;Raisins secs;beaucoup;N/A;Préparation Gateau;0;4;10
+IGD_0150;Couscous;Ail;1;Gousse(s);Fruits et légumes;0;7;5
+IGD_0151;Couscous;Amandes effilées;0.5;Cup(s);Fruits secs;0;5;5
+IGD_0152;Couscous;Bouillon de volaille;1;Cube(s);Aide à la cuisine;0;4;11
+IGD_0153;Couscous;Cannelle moulue;1;CAC;Epices;0;5;11
+IGD_0154;Couscous;Champignon de paris;250;Gr;Fruits et légumes;0;7;5
+IGD_0155;Couscous;Coriandre en poudre;1;CAC;Epices;0;5;11
+IGD_0156;Couscous;Courgette;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0157;Couscous;Jus de citron;60;Ml;Condiments;0;4;11
+IGD_0158;Couscous;Merguez;8;Unité(s);Viande;0;6;7
+IGD_0159;Couscous;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0160;Couscous;Pois chiches égoutés;1;Boite(s);Conserves;0;4;9
+IGD_0161;Couscous;Poivron orange;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0162;Couscous;Poudre Chili;1;Sachet;Epices;0;5;11
+IGD_0163;Couscous;Raisin corinthe;1;Sachet;Fruits secs;0;5;5
+IGD_0164;Couscous;Semoule;375;Gr;Féculents;0;4;9
+IGD_0165;Couscous;Tomate;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0166;Cranberry Sauce;Cinnamon stick;1;Unité(s);Epices;0;5;11
+IGD_0167;Cranberry Sauce;Cranberries fresh rinsed and picked through 12 Oz;340;Gr;Fruits et légumes;0;7;5
+IGD_0168;Cranberry Sauce;Orange juice;0.5;Cup(s);Fruits et légumes;0;7;5
+IGD_0169;Cranberry Sauce;Orange ;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0170;Cranberry Sauce;Salt;1;Pincée(s);Condiments;0;4;11
+IGD_0171;Cranberry Sauce;Sugar;0.75;Cup(s);Préparation Gateau;0;4;10
+IGD_0172;Creme Brulee;Crème liquide;50;Cl;Lait;0;9;14
+IGD_0173;Creme Brulee;Oeuf;6;Unité(s);Oeuf;0;11;15
+IGD_0174;Creme Brulee;Sucre brun;6;CAS;Préparation Gateau;0;4;10
+IGD_0175;Creme Brulee;Sucre en poudre;100;Gr;Préparation Gateau;0;4;10
+IGD_0176;Creme Brulee;Vanille;1;Gousse(s);Préparation Gateau;0;4;10
+IGD_0177;Crepes Galette;Galettes sarazin;6;Unité(s);Refrigérateur;0;12;15
+IGD_0178;Crepes Galette;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0179;Crepes Galette;Jambon;6;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0180;Crepes Galette;Oeuf;6;Unité(s);Oeuf;0;11;15
+IGD_0181;Crepine De Porc;Chair à saucisse;800;Gr;Charcuterie Fraiche;0;4;8
+IGD_0182;Crepine De Porc;Crépine;1;Unité(s);Viande;0;6;7
+IGD_0183;Crepine De Porc;Cumin en poudre;1;CAC;Epices;0;5;11
+IGD_0184;Crepine De Porc;Jus de veau;;Cl;Aide à la cuisine;0;4;11
+IGD_0185;Crepine De Porc;Madère;5;Cl;Vin;0;2;9
+IGD_0186;Crepine De Porc;Oignon saucier;10;Unité(s);Fruits et légumes;0;7;5
+IGD_0187;Crepine De Porc;Persil;0.5;Bouquet;Epices;0;5;11
+IGD_0188;Crepine De Porc;Vin blanc;10;Cl;Vin;0;2;9
+IGD_0189;Croissant Jambon Curry;Crème fraiche;20;Cl;Fromage;0;12;15
+IGD_0190;Croissant Jambon Curry;Croissants;6;Unité(s);Boulangerie;0;11;2
+IGD_0191;Croissant Jambon Curry;Curry en poudre;10;Gr;Epices;0;5;11
+IGD_0192;Croissant Jambon Curry;Jambon blanc;6;Unité(s);Charcuterie Frigo;0;10;16
+IGD_0193;Croissant Jambon Curry;Yaourt velouté;1;Unité(s);Yaourt;0;12;13
+IGD_0194;Crozet Poireaux Champignon Lardon;Champignon de paris;250;Gr;Fruits et légumes;0;7;5
+IGD_0195;Crozet Poireaux Champignon Lardon;Crème fraiche;15;Cl;Fromage;0;12;15
+IGD_0196;Crozet Poireaux Champignon Lardon;Crozet Nature;1;Boite(s);Féculents;0;4;9
+IGD_0197;Crozet Poireaux Champignon Lardon;Lardon;250;Gr;Charcuterie Frigo;0;10;16
+IGD_0198;Crozet Poireaux Champignon Lardon;Poireau;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0199;Croziflette;Crème fraiche;70;Cl;Fromage;0;12;15
+IGD_0200;Croziflette;Crozet Nature;210;Gr;Féculents;0;4;9
+IGD_0201;Croziflette;Crozet Nature;210;Gr;Féculents;0;4;9
+IGD_0202;Croziflette;Lardon;350;Gr;Charcuterie Frigo;0;10;16
+IGD_0203;Croziflette;Oignon;1.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0204;Croziflette;Reblochon;500;Gr;Fromage;0;12;15
+IGD_0205;Crumble Potiron Courgettes;Courgettes (petites);2;Unité(s);Fruits et légumes;0;7;5
+IGD_0206;Crumble Potiron Courgettes;Farine;75;Gr;Préparation Gateau;0;4;10
+IGD_0207;Crumble Potiron Courgettes;Graine de courge;2;CAS;Epices;0;5;11
+IGD_0208;Crumble Potiron Courgettes;Merguez;4;Unité(s);Viande;0;6;7
+IGD_0209;Crumble Potiron Courgettes;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0210;Crumble Potiron Courgettes;Parmesan rapé ;75;Gr;Fromage;0;12;15
+IGD_0211;Crumble Potiron Courgettes;Potimarron surgelés;500;Gr;Congélateurs;0;12;12
+IGD_0212;Crumble Potiron Courgettes;Saucisse;4;Unité(s);Charcuterie Fraiche;0;4;8
+IGD_0213;Curry Indien Curry Legume Poulet;Courgette;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0214;Curry Indien Curry Legume Poulet;Curry en poudre;1;CAS;Epices;0;5;11
+IGD_0215;Curry Indien Curry Legume Poulet;Lait de coco;1;Unité(s);Cuisine du monde;0;5;9
+IGD_0216;Curry Indien Curry Legume Poulet;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0217;Curry Indien Curry Legume Poulet;Petit pois;200;Gr;Conserves;0;4;9
+IGD_0218;Curry Indien Curry Legume Poulet;Poulet;500;Gr;Viande;0;6;7
+IGD_0219;Curry Indien Curry Legume Poulet;Tomate cerise;250;Gr;Fruits et légumes;0;7;5
+IGD_0220;Effiloché de boeuf ;Ail;2;Gousse(s);Fruits et légumes;0;7;5
+IGD_0221;Effiloché de boeuf ;Bièrre blonde;25;Cl;Vin;0;2;9
+IGD_0222;Effiloché de boeuf ;Cassonade;1;CAS;Préparation Gateau;0;4;10
+IGD_0223;Effiloché de boeuf ;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0224;Effiloché de boeuf ;Ketchup;0.75;Cup(s);Condiments;0;4;11
+IGD_0225;Effiloché de boeuf ;Moutarde;2;CAS;Condiments;0;4;11
+IGD_0226;Effiloché de boeuf ;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0227;Effiloché de boeuf ;Palette de bœuf désossée ;1.5;Kg;Viande;0;6;7
+IGD_0228;Effiloché de boeuf ;Piment émincé;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0229;Effiloché de boeuf ;Poudre de chili;2;CAS;Epices;0;5;11
+IGD_0230;Effiloché de boeuf ;Sauce Soja;1;CAS;Cuisine du monde;0;5;9
+IGD_0231;Effiloché de boeuf ;Sauce worcestershire;1;CAS;Cuisine du monde;0;5;9
+IGD_0232;Effiloché de boeuf ;Vinaigre blanc;0.25;Cup(s);Condiments;0;4;11
+IGD_0233;Endives gratinées au jambon et à la fourme d'Ambert;Crème liquide;60;Cl;Lait;0;9;14
+IGD_0234;Endives gratinées au jambon et à la fourme d'Ambert;Endive;8;Unité(s);Fruits et légumes;0;7;5
+IGD_0235;Endives gratinées au jambon et à la fourme d'Ambert;Fourme d'ambert;250;Gr;Fromage;0;12;15
+IGD_0236;Endives gratinées au jambon et à la fourme d'Ambert;Huile de noisette;2;CAS;Condiments;0;4;11
+IGD_0237;Endives gratinées au jambon et à la fourme d'Ambert;Jambon;8;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0238;Fajitas;Epices à fajitas;1;Sachet;Epices;0;5;11
+IGD_0239;Fajitas;Fajitas;1;Sachet;Cuisine du monde;0;5;9
+IGD_0240;Fajitas;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0241;Fajitas;Poivron rouge;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0242;Fajitas;Poivron vert;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0243;Fajitas;Poulet;4;Unité(s);Viande;0;6;7
+IGD_0244;Fajitas;Tomate;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0245;Fish And Ships;Cabillaud;500;Gr;Poisson;0;8;6
+IGD_0246;Fish And Ships;Chapelure;100;Gr;Préparation Gateau;0;4;10
+IGD_0247;Fish And Ships;Farine;100;Gr;Préparation Gateau;0;4;10
+IGD_0248;Fish And Ships;Huile d'arachide;20;Cl;Condiments;0;4;11
+IGD_0249;Fish And Ships;Oeuf;1;Unité(s);Oeuf;0;11;15
+IGD_0250;Fish And Ships;Patate douce;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0251;Flammenkueche Poireaux;Beurre;25;Gr;Fromage;0;12;15
+IGD_0252;Flammenkueche Poireaux;Crème fraiche;10;Cl;Fromage;0;12;15
+IGD_0253;Flammenkueche Poireaux;Lardon;150;Gr;Charcuterie Frigo;0;10;16
+IGD_0254;Flammenkueche Poireaux;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0255;Flammenkueche Poireaux;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0256;Flammenkueche Poireaux;Pâte brisée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0257;Flammenkueche Poireaux;Poireau;6;Unité(s);Fruits et légumes;0;7;5
+IGD_0258;Flammenkueche Poireaux;Yaourt velouté;1;Unité(s);Yaourt;0;12;13
+IGD_0259;Fleur De Reblochon;Crème liquide;15;Cl;Lait;0;9;14
+IGD_0260;Fleur De Reblochon;Lardon;150;Gr;Charcuterie Frigo;0;10;16
+IGD_0261;Fleur De Reblochon;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0262;Fleur De Reblochon;Oignon rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0263;Fleur De Reblochon;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0264;Fleur De Reblochon;Persil;1;Gr;Epices;0;5;11
+IGD_0265;Fleur De Reblochon;Poivre;1;Gr;Epices;0;5;11
+IGD_0266;Fleur De Reblochon;Pomme de terre;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0267;Fleur De Reblochon;Reblochon;3;Unité(s);Fromage;0;12;15
+IGD_0268;Fondue Savoyarde;Carburant;1;Unité(s);Autre;0;1;1
+IGD_0269;Fondue Savoyarde;Melange de fromage;600;Gr;Fromage;0;12;15
+IGD_0270;Fondue Savoyarde;Pain;500;Gr;Boulangerie;0;11;2
+IGD_0271;Fondue Savoyarde;Vin de savoie;1;Bouteille;Vin;0;2;9
+IGD_0272;Fondue Savoyarde;Vin jaune;1.5;Cup(s);Vin;0;2;9
+IGD_0273;Fritata Epinards Champignons;Champignon de paris;250;Gr;Fruits et légumes;0;7;5
+IGD_0274;Fritata Epinards Champignons;Crème liquide;1;Boite(s);Lait;0;9;14
+IGD_0275;Fritata Epinards Champignons;Epinards;1;Sachet;Fruits et légumes;0;7;5
+IGD_0276;Fritata Epinards Champignons;Oeuf;6;Unité(s);Oeuf;0;11;15
+IGD_0277;Fritata Epinards Champignons;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0278;Gratin Choufleur Curry Lait Coco Jambon;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0279;Gratin Choufleur Curry Lait Coco Jambon;Chou-fleur;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0280;Gratin Choufleur Curry Lait Coco Jambon;Comté;60;Gr;Fromage;0;12;15
+IGD_0281;Gratin Choufleur Curry Lait Coco Jambon;Curry en poudre;2;CAS;Epices;0;5;11
+IGD_0282;Gratin Choufleur Curry Lait Coco Jambon;Garam Masala;1;CAS;Cuisine du monde;0;5;9
+IGD_0283;Gratin Choufleur Curry Lait Coco Jambon;Gingembre;10;Gr;Cuisine du monde;0;5;9
+IGD_0284;Gratin Choufleur Curry Lait Coco Jambon;Jambon à l'os;6;Unité(s);Charcuterie Frigo;0;10;16
+IGD_0285;Gratin Choufleur Curry Lait Coco Jambon;Lait de coco;20;Cl;Cuisine du monde;0;5;9
+IGD_0286;Gratin Choufleur Curry Lait Coco Jambon;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0287;Gratin Tomates-Aubergines;Ail;3 à 4;Gousse(s);Fruits et légumes;0;7;5
+IGD_0288;Gratin Tomates-Aubergines;Aubergines;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0289;Gratin Tomates-Aubergines;Herbes de Provence;trop;N/A;Epices;0;5;11
+IGD_0290;Gratin Tomates-Aubergines;Huile d’olive;60;Gr;Condiments;0;4;11
+IGD_0291;Gratin Tomates-Aubergines;Tomates;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0292;Ham Cheese Omelet Roll;Farine;2;CAS;Préparation Gateau;0;4;10
+IGD_0293;Ham Cheese Omelet Roll;Jambon blanc;1.5;Cup(s);Charcuterie Frigo;0;10;16
+IGD_0294;Ham Cheese Omelet Roll;Lait;0.75;Cup(s);Lait;0;9;14
+IGD_0295;Ham Cheese Omelet Roll;Moutarde;2;CAS;Condiments;0;4;11
+IGD_0296;Ham Cheese Omelet Roll;Oeuf;12;Unité(s);Oeuf;0;11;15
+IGD_0297;Ham Cheese Omelet Roll;Oignon vert;0.25;Cup(s);Fruits et légumes;0;7;5
+IGD_0298;Ham Cheese Omelet Roll;Parmesan rapé;60;Gr;Fromage;0;12;15
+IGD_0299;Ham Cheese Omelet Roll;Philadelphia;115;Gr;Fromage;0;12;15
+IGD_0300;Ham Cheese Omelet Roll;Sel;0.25;CAT;Condiments;0;4;11
+IGD_0301;Hamburger;Fromage hamburger;4;Unité(s);Fromage;0;12;15
+IGD_0302;Hamburger;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0303;Hamburger;Pain hamburger;4;Unité(s);Pain Brioche;0;3;3
+IGD_0304;Hamburger;Poitrine fumée;1;Unité(s);Charcuterie Fraiche;0;4;8
+IGD_0305;Hamburger;Salade;8;Feuille(s);Fruits et légumes;0;7;5
+IGD_0306;Hamburger;Steak haché;4;Unité(s);Viande;0;6;7
+IGD_0307;Hamburger;Tomate;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0308;Iles flottantes;Lait;0.5;Litre(s) ;Lait;0;9;14
+IGD_0309;Iles flottantes;Oeuf;6;Unité(s);Oeuf;0;11;15
+IGD_0310;Iles flottantes;Sel;1;Pincée(s);Condiments;0;4;11
+IGD_0311;Iles flottantes;Sucre;230;Gr;Préparation Gateau;0;4;10
+IGD_0312;Iles flottantes;Vanille;1;Gousse(s);Préparation Gateau;0;4;10
+IGD_0313;Jalapeno Poppers;Bacon bits;1;Tbs(s) ;Charcuterie Frigo;0;10;16
+IGD_0314;Jalapeno Poppers;Cheddar cheese shredded;250;Gr;Fromage;0;12;15
+IGD_0315;Jalapeno Poppers;Cream cheese softened;350;Gr;Fromage;0;12;15
+IGD_0316;Jalapeno Poppers;Dry bread crumbs;1;Cup(s);Préparation Gateau;0;4;10
+IGD_0317;Jalapeno Poppers;Flour;1;Cup(s);Préparation Gateau;0;4;10
+IGD_0318;Jalapeno Poppers;Jalapeno peppers, seeded and halved;350;Gr;Fruits et légumes;0;7;5
+IGD_0319;Jalapeno Poppers;Milk;1;Cup(s);Lait;0;9;14
+IGD_0320;Jalapeno Poppers;Oil for frying;2;Litre(s) ;Condiments;0;4;11
+IGD_0321;Jambon Poireaux;Crème fraiche;1;Unité(s);Fromage;0;12;15
+IGD_0322;Jambon Poireaux;Curry en poudre;1;Unité(s);Epices;0;5;11
+IGD_0323;Jambon Poireaux;Gruyère rapé;1;Unité(s);Fromage;0;12;15
+IGD_0324;Jambon Poireaux;Jambon;6;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0325;Jambon Poireaux;Poireau;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0326;Kebab;Ail en poudre;1;CAC;Epices;0;5;11
+IGD_0327;Kebab;Citron;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0328;Kebab;Cumin en poudre;1;Pincée(s);Epices;0;5;11
+IGD_0329;Kebab;Echalotte;1;CAC;Fruits et légumes;0;7;5
+IGD_0330;Kebab;Epice Kebab;1;Unité(s);Epices;0;5;11
+IGD_0331;Kebab;Galette Derum;1;Unité(s);Cuisine du monde;0;5;9
+IGD_0332;Kebab;Huile d'olive;5;CAS;Condiments;0;4;11
+IGD_0333;Kebab;Mayonnaise;2;CAC;Condiments;0;4;11
+IGD_0334;Kebab;Mouton;750;Gr;Viande;0;6;7
+IGD_0335;Kebab;Oignon rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0336;Kebab;Piment doux;1;Pincée(s);Epices;0;5;11
+IGD_0337;Kebab;Salade;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0338;Kebab;Tomate;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0339;Kebab;Yaourt grec;2;Unité(s);Yaourt;0;12;13
+IGD_0340;Kebab Agneau Poulet;Ail en poudre;1;CAC;Epices;0;5;11
+IGD_0341;Kebab Agneau Poulet;Citron;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0342;Kebab Agneau Poulet;Cumin en poudre;1;Pincée(s);Epices;0;5;11
+IGD_0343;Kebab Agneau Poulet;Echalotte;1;CAC;Fruits et légumes;0;7;5
+IGD_0344;Kebab Agneau Poulet;Epice Kebab;1;Unité(s);Epices;0;5;11
+IGD_0345;Kebab Agneau Poulet;Galette Derum;1;Sachet;Cuisine du monde;0;5;9
+IGD_0346;Kebab Agneau Poulet;Gigot agneau;400;Gr;Viande;0;6;7
+IGD_0347;Kebab Agneau Poulet;Huile d'olive;5;CAS;Condiments;0;4;11
+IGD_0348;Kebab Agneau Poulet;Mayonnaise;2;CAC;Condiments;0;4;11
+IGD_0349;Kebab Agneau Poulet;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0350;Kebab Agneau Poulet;Oignon rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0351;Kebab Agneau Poulet;Piment doux;1;Pincée(s);Epices;0;5;11
+IGD_0352;Kebab Agneau Poulet;Pomme de terre;500;Gr;Fruits et légumes;0;7;5
+IGD_0353;Kebab Agneau Poulet;Poulet (escalope);200;Gr;Viande;0;6;7
+IGD_0354;Kebab Agneau Poulet;Salade;1;Sachet;Fruits et légumes;0;7;5
+IGD_0355;Kebab Agneau Poulet;Tomate;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0356;Kebab Agneau Poulet;Yaourt grec;2;Unité(s);Yaourt;0;12;13
+IGD_0357;Lapin Moutarde;Bouillon de volaille;1;Unité(s);Aide à la cuisine;0;4;11
+IGD_0358;Lapin Moutarde;Crème fraiche;200;Gr;Fromage;0;12;15
+IGD_0359;Lapin Moutarde;Echalotte;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0360;Lapin Moutarde;Huile d'arachide;2;CAC;Condiments;0;4;11
+IGD_0361;Lapin Moutarde;Lapin ;1.2;Kg;Viande;0;6;7
+IGD_0362;Lapin Moutarde;Moutarde à l'ancienne;2;CAS;Condiments;0;4;11
+IGD_0363;Lapin Moutarde;Thym (branche);2;Unité(s);Epices;0;5;11
+IGD_0364;Lapin Moutarde;Vin blanc;10;Cl;Vin;0;2;9
+IGD_0365;Lotte Armoricaine;Ail;1;Gousse(s);Fruits et légumes;0;7;5
+IGD_0366;Lotte Armoricaine;Beurre;20;Gr;Fromage;0;12;15
+IGD_0367;Lotte Armoricaine;Cognac;5;Cl;Vin;0;2;9
+IGD_0368;Lotte Armoricaine;Echalotte;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0369;Lotte Armoricaine;Huile d'arachide;1;CAS;Condiments;0;4;11
+IGD_0370;Lotte Armoricaine;Oignon grelot;12;Unité(s);Fruits et légumes;0;7;5
+IGD_0371;Lotte Armoricaine;Piment de Cayenne;1;Pincée(s);Epices;0;5;11
+IGD_0372;Lotte Armoricaine;Queue de lotte;1;Unité(s);Poisson;0;8;6
+IGD_0373;Lotte Armoricaine;Riz;1.5;Cup(s);Féculents;0;4;9
+IGD_0374;Lotte Armoricaine;Tomate pelée;1;Boite(s);Conserves;0;4;9
+IGD_0375;Lotte Armoricaine;Tomates (concentré);1;CAS;Sauces Pâtes;0;4;9
+IGD_0376;Lotte Armoricaine;Vin blanc;20;Cl;Vin;0;2;9
+IGD_0377;Meatloaf;Ail emince;2;Tsp(s);Fruits et légumes;0;7;5
+IGD_0378;Meatloaf;Beurre;4;Tbs(s);Fromage;0;12;15
+IGD_0379;Meatloaf;Boeuf haché;750;Gr;Viande;0;6;7
+IGD_0380;Meatloaf;Celleri;0.5;Cup(s);Fruits et légumes;0;7;5
+IGD_0381;Meatloaf;Chapelure;1;Cup(s);Préparation Gateau;0;4;10
+IGD_0382;Meatloaf;Ketchup;0.5;Cup(s);Condiments;0;4;11
+IGD_0383;Meatloaf;Lait déshydraté;0.5;Cup(s);Lait;0;9;14
+IGD_0384;Meatloaf;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0385;Meatloaf;Oignon;0.75;Cup(s);Fruits et légumes;0;7;5
+IGD_0386;Meatloaf;Oignon vert;0.25;Cup(s);Fruits et légumes;0;7;5
+IGD_0387;Meatloaf;Poivre vert;0.5;Cup(s);Epices;0;5;11
+IGD_0388;Meatloaf;Porc haché;250;Gr;Viande;0;6;7
+IGD_0389;Meatloaf;Tabasco;1;Tsp(s);Condiments;0;4;11
+IGD_0390;Mille Feuilles Aux Epinards;Beurre;20;Gr;Fromage;0;12;15
+IGD_0391;Mille Feuilles Aux Epinards;Epinards;300;Gr;Fruits et légumes;0;7;5
+IGD_0392;Mille Feuilles Aux Epinards;Feta;200;Gr;Fromage;0;12;15
+IGD_0393;Mille Feuilles Aux Epinards;Oeuf;1;Unité(s);Oeuf;0;11;15
+IGD_0394;Mille Feuilles Aux Epinards;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0395;Oeuf cocotte;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0396;Oeuf cocotte;Tomate;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0397;Onglet Frites;Onglet;3;Unité(s);Viande;0;6;7
+IGD_0398;Onglet Frites;Pomme de terre;1;Kg;Fruits et légumes;0;7;5
+IGD_0399;Pain de mais;Bicarbonate de soude;0.5;CAT;Autre;0;1;1
+IGD_0400;Pain de mais;Cassonade;0.25;CAS;Préparation Gateau;0;4;10
+IGD_0401;Pain de mais;Farine;1;Cup(s);Préparation Gateau;0;4;10
+IGD_0402;Pain de mais;Huile de Canola;0.25;Cup(s);Condiments;0;4;11
+IGD_0403;Pain de mais;Lait;250;Ml;Lait;0;9;14
+IGD_0404;Pain de mais;Levure;1;Unité(s);Préparation Gateau;0;4;10
+IGD_0405;Pain de mais;Poivre de Cayenne;0.25;CAC;Epices;0;5;11
+IGD_0406;Pain de mais;Sel;N/A;N/A;Condiments;0;4;11
+IGD_0407;Pain de mais;Semoule de maïs;1;Cup(s);Féculents;0;4;9
+IGD_0408;Pain de mais;Vinaigre blanc;1;CAS;Condiments;0;4;11
+IGD_0409;Pâtes Aubergine Champignons;Aubergine ;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0410;Pâtes Aubergine Champignons;Champignon de paris;250;Gr;Fruits et légumes;0;7;5
+IGD_0411;Pâtes Aubergine Champignons;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0412;Pâtes Aubergine Champignons;Pâtes;500;Gr;Féculents;0;4;9
+IGD_0413;Pâtes Aubergine Champignons;Ricotta;1;Boite(s);Fromage;0;12;15
+IGD_0414;Pâtes Aubergine Champignons;Sauce Barilla;1;Unité(s);Sauces Pâtes;0;4;9
+IGD_0415;Pâtes Carbo;Capellini;1;Unité(s);Féculents;0;4;9
+IGD_0416;Pâtes Carbo;Crème fraiche;4;CAS;Fromage;0;12;15
+IGD_0417;Pâtes Carbo;Gruyère rapé;1;Poignée(s);Fromage;0;12;15
+IGD_0418;Pâtes Carbo;Lardon;2;Unité(s);Charcuterie Frigo;0;10;16
+IGD_0419;Pâtes Carbo;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0420;Pâtes Feta Epinards;Capellini;100;Gr;Féculents;0;4;9
+IGD_0421;Pâtes Feta Epinards;Champignon de paris;500;Gr;Fruits et légumes;0;7;5
+IGD_0422;Pâtes Feta Epinards;Epinards;200;Gr;Fruits et légumes;0;7;5
+IGD_0423;Pâtes Feta Epinards;Feta;200;Gr;Fromage;0;12;15
+IGD_0424;Pâtes Feta Epinards;Sauce Barilla;1;Boite(s);Sauces Pâtes;0;4;9
+IGD_0425;Pâtes lardons crevettes;Ail;2;Gousse(s);Fruits et légumes;0;7;5
+IGD_0426;Pâtes lardons crevettes;Basilic frais;4;Feuille(s);Fruits et légumes;0;7;5
+IGD_0427;Pâtes lardons crevettes;Crème liquide;20;Cl;Lait;0;9;14
+IGD_0428;Pâtes lardons crevettes;Crevettes (moyennes);300;Gr;Poisson;0;8;6
+IGD_0429;Pâtes lardons crevettes;Lardon;300;Gr;Charcuterie Frigo;0;10;16
+IGD_0430;Pâtes lardons crevettes;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0431;Pâtes lardons crevettes;Pâtes;600;Gr;Féculents;0;4;9
+IGD_0432;Pâtes lardons crevettes;Tomate cerise;500;Gr;Fruits et légumes;0;7;5
+IGD_0433;Pâtes Thai;Ail;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0434;Pâtes Thai;Arachides concassées;60;Gr;Fruits secs;0;5;5
+IGD_0435;Pâtes Thai;Coriandre fraiche;6;Unité(s);Fruits et légumes;0;7;5
+IGD_0436;Pâtes Thai;Crevettes (moyennes);200;Gr;Poisson;0;8;6
+IGD_0437;Pâtes Thai;Germe de soja;200;Gr;Conserves;0;4;9
+IGD_0438;Pâtes Thai;Gingembre;2;CAS;Cuisine du monde;0;5;9
+IGD_0439;Pâtes Thai;Huile d'arachide;3;CAS;Condiments;0;4;11
+IGD_0440;Pâtes Thai;Nouilles de riz (larges);400;Gr;Cuisine du monde;0;5;9
+IGD_0441;Pâtes Thai;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0442;Pâtes Thai;Oignon vert;5;Unité(s);Fruits et légumes;0;7;5
+IGD_0443;Pâtes Thai;Piment émincé;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0444;Pâtes Thai;Poulet (escalope);3;Unité(s);Viande;0;6;7
+IGD_0445;Pâtes Thai;Sauce poisson-Nuoc-nam;4;CAS;Cuisine du monde;0;5;9
+IGD_0446;Pâtes Thai;Sauce soja;6;CAS;Cuisine du monde;0;5;9
+IGD_0447;Pâtes Thai;Sucre en poudre;4;CAC;Préparation Gateau;0;4;10
+IGD_0448;Paves Cabillots Curry Citron;Citron;15;Ml;Fruits et légumes;0;7;5
+IGD_0449;Paves Cabillots Curry Citron;Curry en poudre;1;CAS;Epices;0;5;11
+IGD_0450;Paves Cabillots Curry Citron;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0451;Paves Cabillots Curry Citron;Miel liquide;2;CAS;Miel Confiture;0;3;3
+IGD_0452;Pavés Cabillots Curry Citron;Cabillot (pavé);4;Unité(s);Poisson;0;8;6
+IGD_0453;Pecan Pie Bars;Butter softened;0.5;Cup(s);Fromage;0;12;15
+IGD_0454;Pecan Pie Bars;Confectioners' sugar;0.25;Cup(s);Préparation Gateau;0;4;10
+IGD_0455;Pecan Pie Bars;Cup brown sugar, packed;0.5;Cup(s);Préparation Gateau;0;4;10
+IGD_0456;Pecan Pie Bars;Eggs large;3;Unité(s);Oeuf;0;11;15
+IGD_0457;Pecan Pie Bars;Flour (all purpose);34;Gr;Préparation Gateau;0;4;10
+IGD_0458;Pecan Pie Bars;Maple syrup;390;Gr;Cuisine du monde;0;5;9
+IGD_0459;Pecan Pie Bars;Pecans, coarsely chopped;225;Gr;Fruits secs;0;5;5
+IGD_0460;Pecan Pie Bars;Salt;0.5;Tsp(s);Condiments;0;4;11
+IGD_0461;Pecan Pie Bars;Vanilla extract;0.5;Tsp(s);Préparation Gateau;0;4;10
+IGD_0462;Pecan Pie Bars;Vanilla extract;0.5;Tbs(s);Préparation Gateau;0;4;10
+IGD_0463;Piperade;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0464;Piperade;Cannette d'olive;250;Gr;Conserves;0;4;9
+IGD_0465;Piperade;Herbe de Provence;Un peu;N/A;Epices;0;5;11
+IGD_0466;Piperade;Huile d'olive;1;CAS;Condiments;0;4;11
+IGD_0467;Piperade;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0468;Piperade;Poivron;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0469;Piperade;Tomate concassées  400 Ml;1;Boite(s);Sauces Pâtes;0;4;9
+IGD_0470;Pizza 4 Fromages;Fromage à raclette;100;Gr;Fromage;0;12;15
+IGD_0471;Pizza 4 Fromages;Gorgonzolla;100;Gr;Fromage;0;12;15
+IGD_0472;Pizza 4 Fromages;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0473;Pizza 4 Fromages;Parmesan rapé ;80;Gr;Fromage;0;12;15
+IGD_0474;Pizza 4 Fromages;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0475;Pizza 4 Fromages;Scamorza;100;Gr;Fromage;0;12;15
+IGD_0476;Pizza Ananas;Ananas morceaux;1;Boite(s);Conserves;0;4;9
+IGD_0477;Pizza Ananas;Jambon sec (speck);1;Sachet;Charcuterie Seiche;0;5;4
+IGD_0478;Pizza Ananas;Mozzarella;100;Gr;Fromage;0;12;15
+IGD_0479;Pizza Ananas;Oignon rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0480;Pizza Ananas;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0481;Pizza Ananas;Sauce Barilla;1;Unité(s);Sauces Pâtes;0;4;9
+IGD_0482;Pizza Artichaud Gorgonzola;Ail;2;Gousse(s);Fruits et légumes;0;7;5
+IGD_0483;Pizza Artichaud Gorgonzola;Artichaud à l'huile;8;Unité(s);Conserves;0;4;9
+IGD_0484;Pizza Artichaud Gorgonzola;Gorgonzolla;250;Gr;Fromage;0;12;15
+IGD_0485;Pizza Artichaud Gorgonzola;Olives noires;100;Gr;Conserves;0;4;9
+IGD_0486;Pizza Artichaud Gorgonzola;Parmesan rapé ;80;Gr;Fromage;0;12;15
+IGD_0487;Pizza Artichaud Gorgonzola;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0488;Pizza Artichaud Gorgonzola;Tomate (coulis);40;Cl;Sauces Pâtes;0;4;9
+IGD_0489;Pizza Asperge Epinards;Asperge (boite);1;Unité(s);Conserves;0;4;9
+IGD_0490;Pizza Asperge Epinards;Epinards;300;Gr;Fruits et légumes;0;7;5
+IGD_0491;Pizza Asperge Epinards;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0492;Pizza Asperge Epinards;Sauce Barilla;1;Unité(s);Sauces Pâtes;0;4;9
+IGD_0493;Pizza Calzone Chorizo;Chorizo;2;Unité(s);Charcuterie Seiche;0;5;4
+IGD_0494;Pizza Calzone Chorizo;Gruyère rapé;150;Gr;Fromage;0;12;15
+IGD_0495;Pizza Calzone Chorizo;Mozzarella;1;Unité(s);Fromage;0;12;15
+IGD_0496;Pizza Calzone Chorizo;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0497;Pizza Calzone Chorizo;Pâte à pizza;2;Unité(s);Pâte quiche;0;8;16
+IGD_0498;Pizza Calzone Chorizo;Sauce Barilla;200;Gr;Sauces Pâtes;0;4;9
+IGD_0499;Pizza Flammekeuche Raisins Secs;Crème fraiche;4;CAS;Fromage;0;12;15
+IGD_0500;Pizza Flammekeuche Raisins Secs;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0501;Pizza Flammekeuche Raisins Secs;Lardon;200;Gr;Charcuterie Frigo;0;10;16
+IGD_0502;Pizza Flammekeuche Raisins Secs;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0503;Pizza Flammekeuche Raisins Secs;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0504;Pizza Flammekeuche Raisins Secs;Raisin sec;60;Gr;Fruits secs;0;5;5
+IGD_0505;Pizza Jambon Cru Aubergine;Aubergine petite;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0506;Pizza Jambon Cru Aubergine;Jambon de parme (chiffonade);150;Gr;Charcuterie Seiche;0;5;4
+IGD_0507;Pizza Jambon Cru Aubergine;Mozzarella;100;Gr;Fromage;0;12;15
+IGD_0508;Pizza Jambon Cru Aubergine;Olives noires;12;Unité(s);Conserves;0;4;9
+IGD_0509;Pizza Jambon Cru Aubergine;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0510;Pizza Jambon Cru Aubergine;Purée de tomate;4;CAS;Sauces Pâtes;0;4;9
+IGD_0511;Pizza Legumes Grillés;Basilic;1;Sachet;Fruits et légumes;0;7;5
+IGD_0512;Pizza Legumes Grillés;Légumes verts congelés;1;Sachet;Congélateurs;0;12;12
+IGD_0513;Pizza Legumes Grillés;Pâte à pizza;1;Unité(s);Pâte quiche;0;8;16
+IGD_0514;Pizza Legumes Grillés;Tomates (concentré);1;Tube(s);Sauces Pâtes;0;4;9
+IGD_0515;Pois Chiche Mijote Chorizo Poivron;Chorizo;100;Gr;Charcuterie Seiche;0;5;4
+IGD_0516;Pois Chiche Mijote Chorizo Poivron;Cumin en poudre;1;CAS;Epices;0;5;11
+IGD_0517;Pois Chiche Mijote Chorizo Poivron;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0518;Pois Chiche Mijote Chorizo Poivron;Pois chiches égoutés;800;Gr;Conserves;0;4;9
+IGD_0519;Pois Chiche Mijote Chorizo Poivron;poivron rouge;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0520;Porc Caramel Cinq Epices;5 Epices;1;CAC;Epices;0;5;11
+IGD_0521;Porc Caramel Cinq Epices;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0522;Porc Caramel Cinq Epices;Broccoli;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0523;Porc Caramel Cinq Epices;Filet mignon porc;800;Gr;Viande;0;6;7
+IGD_0524;Porc Caramel Cinq Epices;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0525;Porc Caramel Cinq Epices;Oignon vert;5;Unité(s);Fruits et légumes;0;7;5
+IGD_0526;Porc Caramel Cinq Epices;Riz;100;Gr;Féculents;0;4;9
+IGD_0527;Porc Caramel Cinq Epices;Sauce soja;5;CAS;Cuisine du monde;0;5;9
+IGD_0528;Porc Caramel Cinq Epices;Sucre en poudre;120;Gr;Préparation Gateau;0;4;10
+IGD_0529;Poulet à l'ail;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0530;Poulet à l'ail;Herbe de Provence;Beaucoup;N/A;Epices;0;5;11
+IGD_0531;Poulet à l'ail;Huile d'olive;1;CAS;Condiments;0;4;11
+IGD_0532;Poulet à l'ail;Poulet (escalope);200;Gr;Viande;0;6;7
+IGD_0533;Poulet à l'ail;Sel;1;Pincée(s);Condiments;0;4;11
+IGD_0534;Poulet Au Citron;Ail;2;Gousse(s);Fruits et légumes;0;7;5
+IGD_0535;Poulet Au Citron;Anis vert en poudre;0.5;CAC;Epices;0;5;11
+IGD_0536;Poulet Au Citron;Bouillon de volaille;0.5;Cube(s);Aide à la cuisine;0;4;11
+IGD_0537;Poulet Au Citron;Cannelle moulue;0.5;CAC;Epices;0;5;11
+IGD_0538;Poulet Au Citron;Citrons confits;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0539;Poulet Au Citron;Coriandre en poudre;2;CAS;Epices;0;5;11
+IGD_0540;Poulet Au Citron;Cumin en poudre;1;CAC;Epices;0;5;11
+IGD_0541;Poulet Au Citron;Curcuma;1;CAC;Epices;0;5;11
+IGD_0542;Poulet Au Citron;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0543;Poulet Au Citron;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0544;Poulet Au Citron;Olives vertes;20;Unité(s) ;Conserves;0;4;9
+IGD_0545;Poulet Au Citron;Piment d’Espelette;2;Pincée(s);Epices;0;5;11
+IGD_0546;Poulet Au Citron;Poulet (Pilons ou hauts de cuisses);3;Unité(s);Viande;0;6;7
+IGD_0547;Poulet Au Citron;Quatre-épices;2;Pincée(s);Epices;0;5;11
+IGD_0548;Poulet Au Citron;Sucre en poudre;1;CAC;Préparation Gateau;0;4;10
+IGD_0549;Poulet Coco Curry;Champignon de paris;250;Gr;Fruits et légumes;0;7;5
+IGD_0550;Poulet Coco Curry;Copeaux de noix de coco;100;Gr;Fruits secs;0;5;5
+IGD_0551;Poulet Coco Curry;Curry en poudre;3;CAS;Epices;0;5;11
+IGD_0552;Poulet Coco Curry;Gingembre;3;CAC;Cuisine du monde;0;5;9
+IGD_0553;Poulet Coco Curry;Lait de coco;300;Gr;Cuisine du monde;0;5;9
+IGD_0554;Poulet Coco Curry;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0555;Poulet Coco Curry;Poulet (escalope);4;Unité(s);Viande;0;6;7
+IGD_0556;Poulet Coco Curry;Riz;250;Gr;Féculents;0;4;9
+IGD_0557;Poulet Frites Haricots Verts;Haricots verts;1;Kg;Fruits et légumes;0;7;5
+IGD_0558;Poulet Frites Haricots Verts;Pomme de terre;1;Kg;Fruits et légumes;0;7;5
+IGD_0559;Poulet Frites Haricots Verts;Poulet;1;Unité(s);Viande;0;6;7
+IGD_0560;Pumpkin Pie (No fail, home made);Cinnamon ground;1.5;Tsp(s);Epices;0;5;11
+IGD_0561;Pumpkin Pie (No fail, home made);Cloves grounded;0.25;Tsp(s);Fruits et légumes;0;7;5
+IGD_0562;Pumpkin Pie (No fail, home made);Cream (whipping heavy) 175 Ml;0.75;Cup(s);Lait;0;9;14
+IGD_0563;Pumpkin Pie (No fail, home made);Eggs large;3;Unité(s);Oeuf;0;11;15
+IGD_0564;Pumpkin Pie (No fail, home made);Ginger grounded;0.5;Tsp(s);Epices;0;5;11
+IGD_0565;Pumpkin Pie (No fail, home made);Pumkin pure puree 440Gr;2;Cup(s);Fruits et légumes;0;7;5
+IGD_0566;Pumpkin Pie (No fail, home made);Salt kosher;0.5;Tsp(s);Condiments;0;4;11
+IGD_0567;Pumpkin Pie (No fail, home made);Sugar (granulated) 100 Gr;0.5;Cup(s);Préparation Gateau;0;4;10
+IGD_0568;Pumpkin Pie (No fail, home made);Sugar (light brown) 65 Gr;0.33;Cup(s);Préparation Gateau;0;4;10
+IGD_0569;Pumpkin Pie (No fail, home made);Vanilla extract;1;Tsp(s);Préparation Gateau;0;4;10
+IGD_0570;Quiche aux brocolis et jambon;Brocolis;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0571;Quiche aux brocolis et jambon;Gruyère rapé;45;Gr;Fromage;0;12;15
+IGD_0572;Quiche aux brocolis et jambon;Jambon blanc;1.5;Cup(s);Charcuterie Frigo;0;10;16
+IGD_0573;Quiche aux brocolis et jambon;Lait;1;Cup(s);Lait;0;9;14
+IGD_0574;Quiche aux brocolis et jambon;Moutarde;0.5;CAC;Condiments;0;4;11
+IGD_0575;Quiche aux brocolis et jambon;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0576;Quiche aux brocolis et jambon;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0577;Quiche aux brocolis et jambon;Poivre;0.5;CAC;Epices;0;5;11
+IGD_0578;Quiche aux brocolis et jambon;Sel;0.5;CAC;Condiments;0;4;11
+IGD_0579;Quiche Broccoli Chèvre;Broccoli;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0580;Quiche Broccoli Chèvre;Cerneaux de noix;10;Unité(s);Fruits secs;0;5;5
+IGD_0581;Quiche Broccoli Chèvre;Fromage chèvre frais;100;Gr;Fromage;0;12;15
+IGD_0582;Quiche Broccoli Chèvre;Oeuf;1;Unité(s);Oeuf;0;11;15
+IGD_0583;Quiche Broccoli Chèvre;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0584;Quiche Broccoli Des Jambon;Broccoli;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0585;Quiche Broccoli Des Jambon;Crème fraiche;2;CAS;Fromage;0;12;15
+IGD_0586;Quiche Broccoli Des Jambon;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0587;Quiche Broccoli Des Jambon;Jambon en dés;1;Unité(s);Charcuterie Fraiche;0;4;8
+IGD_0588;Quiche Broccoli Des Jambon;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0589;Quiche Broccoli Des Jambon;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0590;Quiche Broccoli Des Jambon;Yaourt velouté;1;Unité(s);Yaourt;0;12;13
+IGD_0591;Quiche Courgette Fromage Frais;Courgette;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0592;Quiche Courgette Fromage Frais;Crème liquide;5;Cl;Lait;0;9;14
+IGD_0593;Quiche Courgette Fromage Frais;Fromage frais;100;Gr;Fromage;0;12;15
+IGD_0594;Quiche Courgette Fromage Frais;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0595;Quiche Courgette Fromage Frais;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0596;Quiche Courgette Fromage Frais;Pâte brisée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0597;Quiche Deux Saumons;Crème liquide;25;Cl;Lait;0;9;14
+IGD_0598;Quiche Deux Saumons;Moutarde;2;CAS;Condiments;0;4;11
+IGD_0599;Quiche Deux Saumons;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0600;Quiche Deux Saumons;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0601;Quiche Deux Saumons;Saumon frais;300;Gr;Poisson;0;8;6
+IGD_0602;Quiche Deux Saumons;Saumon fumé;100;Gr;Poisson;0;8;6
+IGD_0603;Quiche Petit Pois Jambon Menthe;Crème liquide;20;Cl;Lait;0;9;14
+IGD_0604;Quiche Petit Pois Jambon Menthe;Jambon;4;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0605;Quiche Petit Pois Jambon Menthe;Menthe;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0606;Quiche Petit Pois Jambon Menthe;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0607;Quiche Petit Pois Jambon Menthe;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0608;Quiche Petit Pois Jambon Menthe;Petit pois surgelé;500;Gr;Congélateurs;0;12;12
+IGD_0609;Quiche Thon Tomate;Crème fraiche;10;Cl;Fromage;0;12;15
+IGD_0610;Quiche Thon Tomate;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0611;Quiche Thon Tomate;Herbe de provence;1;CAS;Epices;0;5;11
+IGD_0612;Quiche Thon Tomate;Moutarde;2;CAS;Condiments;0;4;11
+IGD_0613;Quiche Thon Tomate;Muscade;2;CAC;Epices;0;5;11
+IGD_0614;Quiche Thon Tomate;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0615;Quiche Thon Tomate;Persil;1;CAC;Epices;0;5;11
+IGD_0616;Quiche Thon Tomate;Thon;1;Boite(s);Conserves;0;4;9
+IGD_0617;Quiche Thon Tomate;Tomate;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0618;Quiche Thon Tomate;Yaourt velouté;1;Unité(s);Yaourt;0;12;13
+IGD_0619;Raclette;Andouille;8;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0620;Raclette;Fromage à raclette;800;Gr;Fromage;0;12;15
+IGD_0621;Raclette;Jambon blanc;4;Tranche(s);Charcuterie Frigo;0;10;16
+IGD_0622;Raclette;Jambon de montagne;8;Tranche(s);Charcuterie Seiche;0;5;4
+IGD_0623;Raclette;Pomme de terre;1;Kg;Fruits et légumes;0;7;5
+IGD_0624;Ragout Mouton;Ail;1;Gousse(s);Fruits et légumes;0;7;5
+IGD_0625;Ragout Mouton;Beurre;30;Gr;Fromage;0;12;15
+IGD_0626;Ragout Mouton;Bouquet garni;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0627;Ragout Mouton;Carotte;150;Gr;Fruits et légumes;0;7;5
+IGD_0628;Ragout Mouton;Eau;500;Ml;Vin;0;2;9
+IGD_0629;Ragout Mouton;Farine;2;CAS;Préparation Gateau;0;4;10
+IGD_0630;Ragout Mouton;Mouton (collier poitrine ou épaule);1;Kg;Viande;0;6;7
+IGD_0631;Ragout Mouton;Navet;100;Gr;Fruits et légumes;0;7;5
+IGD_0632;Ragout Mouton;Oignon;125;Unité(s);Fruits et légumes;0;7;5
+IGD_0633;Ragout Mouton;Persil;1;CAS;Epices;0;5;11
+IGD_0634;Ragout Mouton;Poivre moulu;2;Pincée(s);Epices;0;5;11
+IGD_0635;Ragout Mouton;Pomme de terre;750;Gr;Fruits et légumes;0;7;5
+IGD_0636;Ragout Mouton;Purée de tomate;2;CAS;Sauces Pâtes;0;4;9
+IGD_0637;Ragout Mouton;Saindoux;50;Gr;Viande;0;6;7
+IGD_0638;Ragout Mouton;Sel;0.5;CAS;Condiments;0;4;11
+IGD_0639;Rillette Maquereau Fume;Ciboulette (brin);6;Unité(s);Fruits et légumes;0;7;5
+IGD_0640;Rillette Maquereau Fume;Citron;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0641;Rillette Maquereau Fume;Graine de moutarde;1;CAS;Epices;0;5;11
+IGD_0642;Rillette Maquereau Fume;Maquereau fumé;4;Unité(s);Poisson;0;8;6
+IGD_0643;Rillette Maquereau Fume;Ricotta;150;Gr;Fromage;0;12;15
+IGD_0644;Riz sauté aux noix de cajou;Ail;6;Gousse(s);Fruits et légumes;0;7;5
+IGD_0645;Riz sauté aux noix de cajou;Courgette;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0646;Riz sauté aux noix de cajou;Noix de cajou;125;Gr;Fruits secs;0;5;5
+IGD_0647;Riz sauté aux noix de cajou;Poivron rouge;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0648;Riz sauté aux noix de cajou;Riz;200;Gr;Féculents;0;4;9
+IGD_0649;Riz sauté aux noix de cajou;Sauce Soja;8;CAS;Cuisine du monde;0;5;9
+IGD_0650;Roti Porc Pruneaux;Bouquet garni;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0651;Roti Porc Pruneaux;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0652;Roti Porc Pruneaux;Pomme de terre;1;Kg;Fruits et légumes;0;7;5
+IGD_0653;Roti Porc Pruneaux;Pruneaux;300;Gr;Fruits secs;0;5;5
+IGD_0654;Roti Porc Pruneaux;Roti de porc;1;Kg;Viande;0;6;7
+IGD_0655;Roule Courgette Saumon Fromage;Courgette;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0656;Roule Courgette Saumon Fromage;Crème fraiche;2;CAS;Fromage;0;12;15
+IGD_0657;Roule Courgette Saumon Fromage;Farine;50;Gr;Préparation Gateau;0;4;10
+IGD_0658;Roule Courgette Saumon Fromage;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0659;Roule Courgette Saumon Fromage;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0660;Roule Courgette Saumon Fromage;Philadelphia;1;Unité(s);Fromage;0;12;15
+IGD_0661;Roule Courgette Saumon Fromage;Piment d’Espelette;2;Pincée(s);Epices;0;5;11
+IGD_0662;Roule Courgette Saumon Fromage;Saumon fumé;12;Tranche(s);Poisson;0;8;6
+IGD_0663;Salad Curried Chicken;Curry en poudre;0.75;CAT;Epices;0;5;11
+IGD_0664;Salad Curried Chicken;Granny smith;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0665;Salad Curried Chicken;Mayonnaise;0.5;Cup(s);Condiments;0;4;11
+IGD_0666;Salad Curried Chicken;Melon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0667;Salad Curried Chicken;Noix pécan;0.33;Cup(s);Fruits secs;0;5;5
+IGD_0668;Salad Curried Chicken;Oignon vert;0.33;Cup(s);Fruits et légumes;0;7;5
+IGD_0669;Salad Curried Chicken;Poulet (escalope);4;Unité(s);Viande;0;6;7
+IGD_0670;Salad Curried Chicken;Raisin frais;1.5;Cup(s);Fruits et légumes;0;7;5
+IGD_0671;Salad Curried Chicken;Sel;0.25;CAT;Condiments;0;4;11
+IGD_0672;Salad Curried Chicken;Yaourt velouté;0.5;Unité(s);Yaourt;0;12;13
+IGD_0673;Salade aux pommes et chèvre chaud;Cerneaux de noix;12;Unité(s);Fruits secs;0;5;5
+IGD_0674;Salade aux pommes et chèvre chaud;Crottin de chèvre;2;Unité(s);Fromage;0;12;15
+IGD_0675;Salade aux pommes et chèvre chaud;Granny smith;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0676;Salade aux pommes et chèvre chaud;Huile vierge de noix;1;CAS;Condiments;0;4;11
+IGD_0677;Salade aux pommes et chèvre chaud;Miel liquide;2;CAS;Miel Confiture;0;3;3
+IGD_0678;Salade Haricots Vert Feta;Feta;150;Gr;Fromage;0;12;15
+IGD_0679;Salade Haricots Vert Feta;Haricots verts;1;Kg;Fruits et légumes;0;7;5
+IGD_0680;Salade Haricots Vert Feta;Huile d'olive;3;CAS;Condiments;0;4;11
+IGD_0681;Salade Haricots Vert Feta;Miel liquide;1;CAS;Miel Confiture;0;3;3
+IGD_0682;Salade Haricots Vert Feta;Tomate cerise;150;Gr;Fruits et légumes;0;7;5
+IGD_0683;Salade Haricots Vert Feta;Vinaigre balsamique;1;CAS;Condiments;0;4;11
+IGD_0684;Salade Mangue Avocat Pois Chiche;Avocats;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0685;Salade Mangue Avocat Pois Chiche;Mangue;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0686;Salade Mangue Avocat Pois Chiche;Pois chiches égoutés;1;Boite(s) Grande(s);Conserves;0;4;9
+IGD_0687;Salade Mangue Avocat Pois Chiche;Tomate;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0688;Salade Pâte Roquette;Aubergine;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0689;Salade Pâte Roquette;Basilic frais;4;Feuille(s);Fruits et légumes;0;7;5
+IGD_0690;Salade Pâte Roquette;Feta;100;Gr;Fromage;0;12;15
+IGD_0691;Salade Pâte Roquette;Jambon de parme (chiffonade);5;Tranche(s);Charcuterie Seiche;0;5;4
+IGD_0692;Salade Pâte Roquette;Mayonnaise;3;CAS;Condiments;0;4;11
+IGD_0693;Salade Pâte Roquette;Pâtes papillon;500;Gr;Féculents;0;4;9
+IGD_0694;Salade Pâte Roquette;Pignon de pin;1;Boite(s);Fruits secs;0;5;5
+IGD_0695;Salade Pâte Roquette;Roquette;1;sachet;Fruits et légumes;0;7;5
+IGD_0696;Salade Pâte Roquette;Tomate séchée;8;Unité(s);Condiments;0;4;11
+IGD_0697;Salade Poulet Pomme Comte;Comté;100;Gr;Fromage;0;12;15
+IGD_0698;Salade Poulet Pomme Comte;Granny smith;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0699;Salade Poulet Pomme Comte;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0700;Salade Poulet Pomme Comte;Moutarde;1;CAC;Condiments;0;4;11
+IGD_0701;Salade Poulet Pomme Comte;Poulet (escalope);3;Unité(s);Viande;0;6;7
+IGD_0702;Salade Poulet Pomme Comte;Semoule;1.5;Cup(s);Féculents;0;4;9
+IGD_0703;Salade Poulet Pomme Comte;Yaourt velouté;3;CAS;Yaourt;0;12;13
+IGD_0704;Salade Saumon Fume Pomme DeTerre;Huile d'olive;5;CAS;Condiments;0;4;11
+IGD_0705;Salade Saumon Fume Pomme DeTerre;Moutarde à l'ancienne;1;CAS;Condiments;0;4;11
+IGD_0706;Salade Saumon Fume Pomme DeTerre;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0707;Salade Saumon Fume Pomme DeTerre;Pomme de terre;6;Unité(s);Fruits et légumes;0;7;5
+IGD_0708;Salade Saumon Fume Pomme DeTerre;Saumon fumé;6;Tranche(s);Poisson;0;8;6
+IGD_0709;Salade Saumon Fume Pomme DeTerre;Vinaigre de cidre;2;CAS;Condiments;0;4;11
+IGD_0710;Sauce Orange;Ciboulette;2;CAS;Fruits et légumes;0;7;5
+IGD_0711;Sauce Orange;Citron;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0712;Sauce Orange;Fromage blanc;1;Unité(s);Fromage;0;12;15
+IGD_0713;Sauce Orange;Mayonnaise;0.5;Cup(s);Condiments;0;4;11
+IGD_0714;Sauce Orange;Menthe;1;CAS;Fruits et légumes;0;7;5
+IGD_0715;Sauce Orange;Orange;0.5;Unité(s);Fruits et légumes;0;7;5
+IGD_0716;Saumon Epinard Boursin;Boursin cuisine;1;Unité(s);Fromage;0;12;15
+IGD_0717;Saumon Epinard Boursin;Epinards;400;Gr;Fruits et légumes;0;7;5
+IGD_0718;Saumon Epinard Boursin;Riz;1.5;Cup(s);Féculents;0;4;9
+IGD_0719;Saumon Epinard Boursin;Saumon frais;500;Gr;Poisson;0;8;6
+IGD_0720;Saumon Haricots Verts Sirop Erable;Haricots verts;1;Kg;Fruits et légumes;0;7;5
+IGD_0721;Saumon Haricots Verts Sirop Erable;Saumon frais;4;Unité(s);Poisson;0;8;6
+IGD_0722;Saumon Haricots Verts Sirop Erable;Sirop érable;8;CAS;Cuisine du monde;0;5;9
+IGD_0723;Saumon Riz;Crème liquide;1;Boite(s);Lait;0;9;14
+IGD_0724;Saumon Riz;Estragon;1;CAS;Fruits et légumes;0;7;5
+IGD_0725;Saumon Riz;Riz;1.5;Cup(s);Féculents;0;4;9
+IGD_0726;Saumon Riz;Saumon frais;500;Gr;Poisson;0;8;6
+IGD_0727;Soufle Fromage;Beurre;50;Gr;Fromage;0;12;15
+IGD_0728;Soufle Fromage;Farine;40;Gr;Préparation Gateau;0;4;10
+IGD_0729;Soufle Fromage;Gruyère rapé;100;Gr;Fromage;0;12;15
+IGD_0730;Soufle Fromage;Lait;25;Cl;Lait;0;9;14
+IGD_0731;Soufle Fromage;Muscade;0.5;CAS;Epices;0;5;11
+IGD_0732;Soufle Fromage;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0733;Soufle Fromage;Poivre;2;Pincée(s);Epices;0;5;11
+IGD_0734;Soufle Fromage;Sel;0.5;CAC;Condiments;0;4;11
+IGD_0735;Sour cream;Crème fraiche solide;250;Gr;Fromage;0;12;15
+IGD_0736;Sour cream;Lait;5;Cl;Lait;0;9;14
+IGD_0737;Sour cream;Vinaigre blanc;1;CAC;Condiments;0;4;11
+IGD_0738;Spanakopita;Beurre;50;Gr;Fromage;0;12;15
+IGD_0739;Spanakopita;Curry en poudre;1;CAS;Epices;0;5;11
+IGD_0740;Spanakopita;Epinards;450;Gr;Fruits et légumes;0;7;5
+IGD_0741;Spanakopita;Feta;200;Gr;Fromage;0;12;15
+IGD_0742;Spanakopita;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0743;Spanakopita;Pâte filo;1;Unité(s);Pâte quiche;0;8;16
+IGD_0744;Spinach Dip;Crackers;Some;N/A;Apéritif;0;2;9
+IGD_0745;Spinach Dip;Cream cheese softened;250;Gr;Fromage;0;12;15
+IGD_0746;Spinach Dip;Fresh spinach leaves;300;Gr;Fruits et légumes;0;7;5
+IGD_0747;Spinach Dip;Grated parmesan cheese;0.5;Cup(s);Fromage;0;12;15
+IGD_0748;Spinach Dip;Minced garlic;1;Tsp(s);Condiments;0;4;11
+IGD_0749;Spinach Dip;Parsley chopped;1;Tbs(s);Condiments;0;4;11
+IGD_0750;Spinach Dip;Pepper;0.25;Tsp(s);Condiments;0;4;11
+IGD_0751;Spinach Dip;Salt;0.5;Tsp(s);Condiments;0;4;11
+IGD_0752;Spinach Dip;Shredded mozzarella cheese divided use;1.5;Cup(s);Fromage;0;12;15
+IGD_0753;Spinach Dip;Sour cream;1;Cup(s);Fromage;0;12;15
+IGD_0754;Tagliatelle De Legumes Aux 2 Fromages Poulet;Carotte;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0755;Tagliatelle De Legumes Aux 2 Fromages Poulet;Crème fraiche;20;Cl;Fromage;0;12;15
+IGD_0756;Tagliatelle De Legumes Aux 2 Fromages Poulet;Fenouil;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0757;Tagliatelle De Legumes Aux 2 Fromages Poulet;Gouda au cumin;100;Gr;Fromage;0;12;15
+IGD_0758;Tagliatelle De Legumes Aux 2 Fromages Poulet;Mimolette vieille;100;Gr;Fromage;0;12;15
+IGD_0759;Tagliatelle De Legumes Aux 2 Fromages Poulet;Oeuf;2;Unité(s);Oeuf;0;11;15
+IGD_0760;Tagliatelle De Legumes Aux 2 Fromages Poulet;Oignon ;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0761;Tagliatelle De Legumes Aux 2 Fromages Poulet;Poireau;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0762;Tagliatelle De Legumes Aux 2 Fromages Poulet;Poulet;1;Unité(s);Viande;0;6;7
+IGD_0763;Tagliatelle De Legumes Aux 2 Fromages Poulet;Tomate;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0764;Tarte Camembert Lardon;Camembert;1.5;Unité(s);Fromage;0;12;15
+IGD_0765;Tarte Camembert Lardon;Lardon;250;Gr;Charcuterie Frigo;0;10;16
+IGD_0766;Tarte Camembert Lardon;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0767;Tarte Camembert Lardon;Pâte brisée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0768;Tarte Camembert Panceta;Camembert;1;Unité(s);Fromage;0;12;15
+IGD_0769;Tarte Camembert Panceta;Crème liquide;1;Unité(s);Lait;0;9;14
+IGD_0770;Tarte Camembert Panceta;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0771;Tarte Camembert Panceta;Panceta;8;Tranche(s);Charcuterie Seiche;0;5;4
+IGD_0772;Tarte Camembert Panceta;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0773;Tarte épaisse aux deux saumons;Crème liquide;25;Cl;Lait;0;9;14
+IGD_0774;Tarte épaisse aux deux saumons;Moutarde;2;CAC;Condiments;0;4;11
+IGD_0775;Tarte épaisse aux deux saumons;Oeuf;3;Unité(s);Oeuf;0;11;15
+IGD_0776;Tarte épaisse aux deux saumons;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0777;Tarte épaisse aux deux saumons;Saumon frais;300;Gr;Poisson;0;8;6
+IGD_0778;Tarte épaisse aux deux saumons;Saumon fumé;100;Gr;Poisson;0;8;6
+IGD_0779;Tarte Pastrami Reblochon Carotte;Carotte;5;Unité(s);Fruits et légumes;0;7;5
+IGD_0780;Tarte Pastrami Reblochon Carotte;Graine cumin;1;CAS;Epices;0;5;11
+IGD_0781;Tarte Pastrami Reblochon Carotte;Huile d'olive;1;CAS;Condiments;0;4;11
+IGD_0782;Tarte Pastrami Reblochon Carotte;Humus;3;CAS;Poisson;0;8;6
+IGD_0783;Tarte Pastrami Reblochon Carotte;Pastrami;150;Gr;Charcuterie Fraiche;0;4;8
+IGD_0784;Tarte Pastrami Reblochon Carotte;Pâte feuilletée;1;Unité(s);Pâte quiche;0;8;16
+IGD_0785;Tarte Pastrami Reblochon Carotte;Reblochon;200;Gr;Fromage;0;12;15
+IGD_0786;Tarte Sardine Coco;Lait;0.5;Cup(s);Lait;0;9;14
+IGD_0787;Tarte Sardine Coco;Lait de coco;20;Cl;Cuisine du monde;0;5;9
+IGD_0788;Tarte Sardine Coco;Oeuf;4;Unité(s);Oeuf;0;11;15
+IGD_0789;Tarte Sardine Coco;Pâte brisée;1;Sachet;Pâte quiche;0;8;16
+IGD_0790;Tarte Sardine Coco;Pois chiches égoutés;400;Gr;Conserves;0;4;9
+IGD_0791;Tarte Sardine Coco;Sardine à l'huile égouté;250;Gr;Conserves;0;4;9
+IGD_0792;Tartiflette;Crème fraiche;15;Cl;Fromage;0;12;15
+IGD_0793;Tartiflette;Lardon;2;Unité(s);Charcuterie Frigo;0;10;16
+IGD_0794;Tartiflette;Pomme de terre;800;Gr;Fruits et légumes;0;7;5
+IGD_0795;Tartiflette;Reblochon;2;Unité(s);Fromage;0;12;15
+IGD_0796;Tian Courgette Miel Epices;Cannelle moulue;1;Pincée(s);Epices;0;5;11
+IGD_0797;Tian Courgette Miel Epices;Cardamome;5;Gousse(s);Epices;0;5;11
+IGD_0798;Tian Courgette Miel Epices;Coriandre en poudre;1;Pincée(s);Epices;0;5;11
+IGD_0799;Tian Courgette Miel Epices;Courgette;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0800;Tian Courgette Miel Epices;Graine anis;1;Pincée(s);Epices;0;5;11
+IGD_0801;Tian Courgette Miel Epices;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0802;Tian Courgette Miel Epices;Miel liquide;4;CAS;Miel Confiture;0;3;3
+IGD_0803;Tian Courgette Miel Epices;Oignon;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0804;Tian Courgette Miel Epices;Poivron jaune;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0805;Tian Courgette Miel Epices;Raisin sec;50;Gr;Fruits secs;0;5;5
+IGD_0806;Tian Legume Hiver;Carotte;4;Unité(s);Fruits et légumes;0;7;5
+IGD_0807;Tian Legume Hiver;Huile d'olive;6;CAS;Condiments;0;4;11
+IGD_0808;Tian Legume Hiver;Miel de thim;3;CAS;Miel Confiture;0;3;3
+IGD_0809;Tian Legume Hiver;Panet;3;Unité(s);Fruits et légumes;0;7;5
+IGD_0810;Tian Legume Hiver;Patate douce;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0811;Tian Legume Hiver;Thym;3;Branche(s);Epices;0;5;11
+IGD_0812;Tomates Farcies;Ail;3;Gousse(s);Fruits et légumes;0;7;5
+IGD_0813;Tomates Farcies;Chair à saucisse;500;Gr;Charcuterie Fraiche;0;4;8
+IGD_0814;Tomates Farcies;Chapelure;50;Gr;Préparation Gateau;0;4;10
+IGD_0815;Tomates Farcies;Gruyère rapé;0.75;Cup(s);Fromage;0;12;15
+IGD_0816;Tomates Farcies;Huile d'olive;2;CAS;Condiments;0;4;11
+IGD_0817;Tomates Farcies;Oignon;2;Unité(s);Fruits et légumes;0;7;5
+IGD_0818;Tomates Farcies;Pain sec;2;Tranche(s);Boulangerie;0;11;2
+IGD_0819;Tomates Farcies;Persil;0.25;Cup(s);Epices;0;5;11
+IGD_0820;Tomates Farcies;Tomate;6;Unité(s);Fruits et légumes;0;7;5
+IGD_0821;Tomates Farcies;Vin blanc;0.25;Cup(s);Vin;0;2;9
+IGD_0822;Tressse Broccoli;Broccoli;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0823;Tressse Broccoli;Gruyère rapé;1;Poignée(s);Fromage;0;12;15
+IGD_0824;Tressse Broccoli;Mayonnaise;N/A;N/A;Condiments;0;4;11
+IGD_0825;Tressse Broccoli;Pâte bricks;1;Unité(s);Pâte quiche;0;8;16
+IGD_0826;Tressse Broccoli;Poivron vert;1;Unité(s);Fruits et légumes;0;7;5
+IGD_0827;Tressse Broccoli;Poulet (escalope);4;Unité(s);Viande;0;6;7
+IGD_0828;Turkey Gravy;Butter unsalted;0.25;Cup(s);Fromage;0;12;15
+IGD_0829;Turkey Gravy;Flour (all purpose);0.25;Cup(s);Préparation Gateau;0;4;10
+IGD_0830;Turkey Gravy;Parsley chopped fresh leaves;1;Tbs(s);Fruits et légumes;0;7;5
+IGD_0831;Turkey Gravy;Salt Kosher;N/A;Some;Condiments;0;4;11
+IGD_0832;Turkey Gravy;Thyme chopped fresh;0.25;Tsp(s);Fruits et légumes;0;7;5

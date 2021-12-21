@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_MenuSelection.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_administration.xml" value="0.3390928725701944" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_ingredient.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_menuchooser.xml" value="0.30975954738330974" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_menuselected.xml" value="0.1" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_menuselection.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_selectedingredient.xml" value="0.1" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/activity_selectedingredients.xml" value="0.12817028985507245" />
+        <entry key="..\:/Users/Vincent.Leplumey/AndroidStudioProjects/ShoppingList/app/src/main/res/layout/list_group.xml" value="0.11096014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

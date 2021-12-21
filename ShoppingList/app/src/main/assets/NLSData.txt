@@ -1,0 +1,36 @@
+#File format
+#LanguageName.Tag=TagValueForTheReferredLanguage
+#Hash character means the line is to skip
+
+###############################################################
+Francais.Administration_ActivityName=Administration Fr
+Francais.Administration_SortName=Choix du type de tri
+Francais.Administration_LanguageName=Langue(s) disponible(s)
+
+English.Administration_ActivityName=Administration En
+English.Administration_SortName=Sorting kind
+English.Administration_LanguageName=Language available
+###############################################################
+Francais.ServicesFiles_FileSaved= sauvegardé
+Francais.ServicesFiles_FileSavedError=Echec lors de la sauvegarde de fichier
+Francais.ServicesFiles_FileOpenError=Echec de l'ouverture de fichier
+Francais.ServicesFiles_FileReadError=Echec de lecture de fichier
+
+English.ServicesFiles_FileSaved= saved
+English.ServicesFiles_FileSavedError=Failed to save a file
+English.ServicesFiles_FileOpenError=Failed to open a file
+English.ServicesFiles_FileReadError=Failed to read a file
+###############################################################
+
+Francais.MenuChooser_ActivityName=Sélection des menus
+
+English.MenuChooser_ActivityName=Menu chooser
+###############################################################
+Francais.MenuSelection_ActivityName=Menu(s) sélectionné(s)
+
+English.MenuSelection_ActivityName=Selected menus
+###############################################################
+Francais.SelectedIngredients_ActivityName=Ingrédient(s)
+
+English.SelectedIngredients_ActivityName=Ingredients
+###############################################################
