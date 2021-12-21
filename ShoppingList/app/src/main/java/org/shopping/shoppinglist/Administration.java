@@ -23,7 +23,7 @@ public class Administration extends AppCompatActivity {
     private static final String   _Tag_Administration_ActivityName  = "Administration_ActivityName";
     private static final String   _Tag_Administration_SortName      = "Administration_SortName";
     private static final String   _Tag_Administration_LanguageName  = "Administration_LanguageName";
-//modif1-2-3-4
+//modif1-2-3-45
     private              TextView _TextViewLanguageMode             = null;
     private              TextView _TextViewSortMode                 = null;
     private              ListView _ListViewLanguageList             = null;
