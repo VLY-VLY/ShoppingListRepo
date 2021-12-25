@@ -1,9 +1,5 @@
 package org.shopping.shoppinglist;
 
-/**
- * Created by dbhat on 14-03-2016.
- */
-
 import android.content.Context;
 import android.graphics.Typeface;
 import android.view.LayoutInflater;
@@ -15,15 +11,16 @@ import android.widget.TextView;
 import java.util.HashMap;
 import java.util.List;
 
-public class ExpandableListAdapter extends BaseExpandableListAdapter {
-
-    private Context _context;
-    private List<String> _listDataHeader; // header titles
+public class ExpLstViewAdp extends BaseExpandableListAdapter {
+    //source code
+    //https://www.androidhive.info/2013/07/android-expandable-list-view-tutorial/
+    private Context                       _context;
+    private List<String>                  _listDataHeader; // header titles
     // child data in format of header title, child title
     private HashMap<String, List<String>> _listDataChild;
 
-    public ExpandableListAdapter(Context context, List<String> listDataHeader,
-                                 HashMap<String, List<String>> listChildData) {
+    public ExpLstViewAdp(Context context, List<String> listDataHeader,
+                         HashMap<String, List<String>> listChildData) {
         this._context = context;
         this._listDataHeader = listDataHeader;
         this._listDataChild = listChildData;
@@ -52,9 +49,20 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
             convertView = infalInflater.inflate(R.layout.list_item, null);
         }
 
-        TextView txtListChild = (TextView) convertView.findViewById(R.id.lblListItem);
+        TextView txtListChild = (TextView) convertView
+                .findViewById(R.id.lblListItem);
 
         txtListChild.setText(childText);
+        /*List<String> ListData =  MainActivity._Receipes.get(childText);
+        if (ListData != null) {
+            //txtListChild.setTextColor(Color.BLUE);
+            txtListChild.setTypeface(null, Typeface.ITALIC);
+
+        }
+        else {
+            txtListChild.setTextColor(Color.BLACK);
+        }*/
+
         return convertView;
     }
 

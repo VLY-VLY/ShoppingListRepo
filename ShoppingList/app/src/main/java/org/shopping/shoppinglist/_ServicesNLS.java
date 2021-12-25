@@ -30,17 +30,17 @@ public class _ServicesNLS {
         else
            for (String Line: _ServicesNLS._Lines){
                Log.i(_TAG, "_ServicesNLS::LoadLanguageFile - Processing :|"+Line+"|");
-               if(Line.startsWith(_ServicesConstants._HashString)     ||
+               if(Line.startsWith(_ServicesConstants._HASH_CHARACTER)     ||
                         Line.isEmpty()                          ||
-                       !Line.contains(_ServicesConstants._EqualString)||
-                       !Line.contains(_ServicesConstants._DotString)
+                       !Line.contains(_ServicesConstants._EQUAL_CHARACTER)||
+                       !Line.contains(_ServicesConstants._DOT_CHARACTER)
                ){
                    Log.i(_TAG, "_ServicesNLS::LoadLanguageFile - Skipping   :|"+Line+"|");
                    continue;
                }
-               String Language        = new String (Line.substring(0,Line.indexOf(_ServicesConstants._DotString)));
-               String LanguagePlusTag = new String (Line.substring(0,Line.indexOf(_ServicesConstants._EqualString)));
-               String Value      = new String (Line.substring(Line.indexOf(_ServicesConstants._EqualString)+1,Line.length()));
+               String Language        = new String (Line.substring(0,Line.indexOf(_ServicesConstants._DOT_CHARACTER)));
+               String LanguagePlusTag = new String (Line.substring(0,Line.indexOf(_ServicesConstants._EQUAL_CHARACTER)));
+               String Value      = new String (Line.substring(Line.indexOf(_ServicesConstants._EQUAL_CHARACTER)+1,Line.length()));
                Log.i(_TAG, "_ServicesNLS::LoadLanguageFile - Language   :|"+Language+"|");
                Log.i(_TAG, "_ServicesNLS::LoadLanguageFile - Tag        :|"+LanguagePlusTag+"|");
                Log.i(_TAG, "_ServicesNLS::LoadLanguageFile - Value      :|"+Value+"|");
@@ -77,7 +77,7 @@ public class _ServicesNLS {
     public static String             GetTagValue(String iTag){
         Log.i(_TAG, "_ServicesNLS::GetTagValue - Begin");
         String Result = null;
-        String WorkingTag= new String(_ServicesSettings.GetLanguage()+_ServicesConstants._DotString+iTag);
+        String WorkingTag= new String(_ServicesSettings.GetLanguage()+_ServicesConstants._DOT_CHARACTER+iTag);
         Log.i(_TAG, "_ServicesNLS::GetTagValue - Retreiving value for Tag:|"+WorkingTag+"|");
         String Str = _ServicesNLS._TagsValues.get(WorkingTag);
         if (null == Str ){

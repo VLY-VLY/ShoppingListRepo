@@ -7,12 +7,12 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivityMenuChooser">
+    tools:context=".ActivityMainMenuChooser">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is the menu selection screen"
+        android:text="This is the ingredients screen"
         android:textColor="#219806"
         android:textSize="30sp" />
 

@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class MainActivityMenuChooser extends AppCompatActivity {
-    public  static final String  _TAG                            = "MainActivityMenuChooser";
+public class ActivityMainMenuChooser extends AppCompatActivity {
+    public  static final String  _TAG                            = "ActivityMainMenuChooser";
     private static        String  _Tag_MenuChooser_ActivityName  = "MenuChooser_ActivityName";
     //  ExpandableListAdapter listAdapter;
     ExpLstViewAdpChkbox            _listAdapter;
@@ -47,12 +47,23 @@ public class MainActivityMenuChooser extends AppCompatActivity {
         else
             Log.i(_TAG, "MenuChooser::onCreate - Failed to load data files");
 
-        setContentView(R.layout.activity_menuchooser);
+        if (_ServicesData.LoadDataInList((Context) this))
+
+            Log.i(_TAG, "MenuChooser::onCreate - Data lists loaded successfully");
+        else
+            Log.i(_TAG, "MenuChooser::onCreate - Failed to load data lists");
+
+        _listDataHeader = new ArrayList<String>(_ServicesData.GetListOrderedCategory());
+        _listDataChild  = new HashMap<String, List<String>>();
+        HashMap<String, ArrayList<String>> WorkingHM = _ServicesData.GetListCategoryHashmap();
+        for (String Str:_listDataHeader) {
+            _listDataChild.put(Str,WorkingHM.get(Str));
+        }
+        setContentView(R.layout.activity_mainmenuchooser);
         // get the listview
         _expListView = (ExpandableListView) findViewById(R.id.lvExp);
-        // preparing list data
-        prepareListData();
         _listAdapter = new ExpLstViewAdpChkbox(this, _listDataHeader, _listDataChild);
+
         // setting list adapter
         _expListView.setAdapter(_listAdapter);
 
@@ -62,6 +73,7 @@ public class MainActivityMenuChooser extends AppCompatActivity {
                 return LaunchActivity(touchEvent," _ListViewSortList::onTouchEvent");
             }
         });
+
 
         Log.i(_TAG,"MenuChooser::onCreate - End ");
     }
@@ -86,12 +98,18 @@ public class MainActivityMenuChooser extends AppCompatActivity {
                 _y2 = touchEvent.getY();
                 if(_x1 > _x2){
                     Log.i(_TAG,"MenuChooser::LaunchActivity - Begin");
-                    ArrayList <String> tmpLs=this._listAdapter.GetSelectedElement();
-                    for (String Str:tmpLs){
+                    ArrayList <String> ListSelectedMenus=new ArrayList<String>();
+                    /*for (String Str:ListSelectedMenus){
                         Log.i(_TAG,"Administration::LaunchActivity - Str=|"+Str+"|");
-                    }
-                    Intent i = new Intent(MainActivityMenuChooser.this, MenuSelected.class);
-                    startActivity(i);
+                    }*/
+                    for(String SortedCategory:_ServicesData.GetListOrderedCategory())
+                        for(String Selection:this._listAdapter.GetSelectedElement())
+                            if(Selection.startsWith(SortedCategory))
+                                ListSelectedMenus.add(Selection);
+
+                    Intent WorkingIntent = new Intent(ActivityMainMenuChooser.this, ActivitySlctdMenu.class);
+                    WorkingIntent.putStringArrayListExtra(_ServicesConstants._LIST_SELECTED_MENUS,ListSelectedMenus);
+                    startActivity(WorkingIntent);
                     overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
                     Log.i(_TAG,"MenuChooser::LaunchActivity - End");
                 }else
@@ -101,7 +119,7 @@ public class MainActivityMenuChooser extends AppCompatActivity {
                     for (String Str:tmpLs){
                         Log.i(_TAG,"Administration::LaunchActivity - Str=|"+Str+"|");
                     }
-                    Intent i = new Intent(MainActivityMenuChooser.this, Administration.class);
+                    Intent i = new Intent(ActivityMainMenuChooser.this, ActivityAdministration.class);
                     startActivity(i);
                     overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right);
                     Log.i(_TAG,"MenuChooser::LaunchActivity - End");
@@ -145,8 +163,7 @@ public class MainActivityMenuChooser extends AppCompatActivity {
     protected void onStart() {
         Log.i(_TAG,"MenuChooser::onStart - Begin");
         super.onStart();
-        setTitle(_ServicesNLS.GetTagValue(MainActivityMenuChooser._Tag_MenuChooser_ActivityName));
-
+        setTitle(_ServicesNLS.GetTagValue(ActivityMainMenuChooser._Tag_MenuChooser_ActivityName));
         Log.i(_TAG,"MenuChooser::onStart - End");
     }
 
@@ -158,41 +175,13 @@ public class MainActivityMenuChooser extends AppCompatActivity {
     }
 
     private void prepareListData() {
-        _listDataHeader = new ArrayList<String>();
-        _listDataChild = new HashMap<String, List<String>>();
+        _listDataHeader = new ArrayList<String>(_ServicesData.GetListOrderedCategory());
+        _listDataChild  = new HashMap<String, List<String>>();
+        //HashMap<String, List<String>> WorkingHM = new HashMap<String, List<String>>(_ServicesData.GetListCategoryHashmap());
+        HashMap<String, ArrayList<String>> WorkingHM = _ServicesData.GetListCategoryHashmap();
 
-        // Adding child data
-        _listDataHeader.add("Top 250");
-        _listDataHeader.add("Now Showing");
-        _listDataHeader.add("Coming Soon..");
-
-        // Adding child data
-        List<String> top250 = new ArrayList<String>();
-        top250.add("The Shawshank Redemption");
-        top250.add("The Godfather");
-        top250.add("The Godfather: Part II");
-        top250.add("Pulp Fiction");
-        top250.add("The Good, the Bad and the Ugly");
-        top250.add("The Dark Knight");
-        top250.add("12 Angry Men");
-
-        List<String> nowShowing = new ArrayList<String>();
-        nowShowing.add("The Conjuring");
-        nowShowing.add("Despicable Me 2");
-        nowShowing.add("Turbo");
-        nowShowing.add("Grown Ups 2");
-        nowShowing.add("Red 2");
-        nowShowing.add("The Wolverine");
-
-        List<String> comingSoon = new ArrayList<String>();
-        comingSoon.add("2 Guns");
-        comingSoon.add("The Smurfs 2");
-        comingSoon.add("The Spectacular Now");
-        comingSoon.add("The Canyons");
-        comingSoon.add("Europa Report");
-
-        _listDataChild.put(_listDataHeader.get(0), top250); // Header, Child data
-        _listDataChild.put(_listDataHeader.get(1), nowShowing);
-        _listDataChild.put(_listDataHeader.get(2), comingSoon);
+        for (String Str:_listDataHeader) {
+            _listDataChild.put(Str,WorkingHM.get(Str));
+        }
     }
 }

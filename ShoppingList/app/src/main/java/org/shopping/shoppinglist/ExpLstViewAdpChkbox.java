@@ -103,7 +103,7 @@ public class ExpLstViewAdpChkbox extends BaseExpandableListAdapter {
 
             LayoutInflater inflater = (LayoutInflater) mContext
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = inflater.inflate(R.layout.list_group, null);
+            convertView = inflater.inflate(R.layout.list_group_chck_box, null);
 
             // Initialize the GroupViewHolder defined at the bottom of this document
             groupViewHolder = new GroupViewHolder();
@@ -154,7 +154,7 @@ public class ExpLstViewAdpChkbox extends BaseExpandableListAdapter {
         if (convertView == null) {
             LayoutInflater inflater = (LayoutInflater) this.mContext
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView = inflater.inflate(R.layout.list_item, null);
+            convertView = inflater.inflate(R.layout.list_item_chck_box, null);
 
             childViewHolder = new ChildViewHolder();
 
@@ -164,11 +164,11 @@ public class ExpLstViewAdpChkbox extends BaseExpandableListAdapter {
             childViewHolder.mCheckBox = (CheckBox) convertView
                     .findViewById(R.id.lstcheckBox);
 
-            convertView.setTag(R.layout.list_item, childViewHolder);
+            convertView.setTag(R.layout.list_item_chck_box, childViewHolder);
 
         } else {
             childViewHolder = (ChildViewHolder) convertView
-                    .getTag(R.layout.list_item);
+                    .getTag(R.layout.list_item_chck_box);
         }
         childViewHolder.mChildText.setText(childText);
         /*
@@ -218,14 +218,18 @@ public class ExpLstViewAdpChkbox extends BaseExpandableListAdapter {
                     boolean getChecked[] = mChildCheckStates.get(mGroupPosition);
                     getChecked[mChildPosition] = isChecked;
                     mChildCheckStates.put(mGroupPosition, getChecked);
-                    _SelectedItems.add(tmpGroup+"->"+tmpChild);
-                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - Checking   : "+_SelectedItems.get(_SelectedItems.size()-1));
+                    _SelectedItems.add(tmpGroup+_ServicesConstants._SEMICOLON_CHARACTER+tmpChild);
+                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - Adding in the list of Checked elements: "+tmpGroup+_ServicesConstants._SEMICOLON_CHARACTER+tmpChild);
+                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - Checking   :|"+_SelectedItems.get(_SelectedItems.size()-1)+"|");
 
                 } else {
                     boolean getChecked[] = mChildCheckStates.get(mGroupPosition);
                     getChecked[mChildPosition] = isChecked;
                     mChildCheckStates.put(mGroupPosition, getChecked);
-                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - UnChecking : "+_SelectedItems.get(_SelectedItems.indexOf(tmpGroup+"->"+tmpChild)));
+                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - Removing in the list of Checked elements: "+tmpGroup+_ServicesConstants._SEMICOLON_CHARACTER+tmpChild);
+                    Log.i(_TAG, "ExpLstViewAdpChkbox::onCheckedChanged - UnChecking :|"+_SelectedItems.get(_SelectedItems.indexOf(tmpGroup+_ServicesConstants._SEMICOLON_CHARACTER+tmpChild))+"|");
+                    _SelectedItems.remove((String)tmpGroup+_ServicesConstants._SEMICOLON_CHARACTER+tmpChild);
+
                 }
             }
         });

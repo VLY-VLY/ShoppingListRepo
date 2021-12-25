@@ -1,7 +1,6 @@
 package org.shopping.shoppinglist;
 
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Bundle;
 
@@ -18,25 +17,23 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class Administration extends AppCompatActivity {
-    public  static final String   _TAG                              = "_Administration";
+public class ActivityAdministration extends AppCompatActivity {
+    public  static final String   _TAG                              = "ActivityAdministration";
     private static final String   _Tag_Administration_ActivityName  = "Administration_ActivityName";
-    private static final String   _Tag_Administration_SortName      = "Administration_SortName";
+    private static final String   _Tag_Administration_LocationName  = "Administration_LocationName";
     private static final String   _Tag_Administration_LanguageName  = "Administration_LanguageName";
 //modif1-2-3-45
     private              TextView _TextViewLanguageMode             = null;
-    private              TextView _TextViewSortMode                 = null;
+    private              TextView _TextViewLocationMode             = null;
     private              ListView _ListViewLanguageList             = null;
-    private              ListView _ListViewSortList                 = null;
+    private              ListView _ListViewLocationList             = null;
     private ArrayAdapter<String>  _ArrayAdapterLanguageMode         = null;
-    private ArrayAdapter<String>  _ArrayAdapterSortMode             = null;
+    private ArrayAdapter<String>  _ArrayAdapterLocation             = null;
     private Context               _Context                          = null;
-    private ArrayList<String>     _ListOfSort                       = new ArrayList <String>();
+    private ArrayList<String>     _ListOfLocation                   = new ArrayList <String>();
 
-    private int                   _SelectedSortIndex                = 0;
     private float                 _x1,_x2,_y1,_y2                   = 0;
     private int                   _SelectedLanguageIndex            = 0;
-    private Administration        _AdministrationHandler            = null;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -45,39 +42,44 @@ public class Administration extends AppCompatActivity {
         this._Context=this;
         setContentView(R.layout.activity_administration);
 
-        this._TextViewSortMode = (TextView)this.findViewById(R.id.SortMode);
-        this._TextViewSortMode.setText("Définition du type de tri");
-        this._TextViewSortMode.setTypeface(Typeface.DEFAULT_BOLD);
+        Log.i(_TAG,"Administration::onCreate - Building element for the location");
+        this._TextViewLocationMode = (TextView)this.findViewById(R.id.SortMode);
+        this._TextViewLocationMode.setTypeface(Typeface.DEFAULT_BOLD);
 
-        this._ListViewSortList         = (ListView)this.findViewById(R.id.SortList);
-        this._ListViewSortList.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
+        this._ListViewLocationList = (ListView)this.findViewById(R.id.SortList);
+        this._ListViewLocationList.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
 
-        this._ListViewSortList.setOnTouchListener(new View.OnTouchListener(){
+        this._ListViewLocationList.setOnTouchListener(new View.OnTouchListener(){
             public boolean onTouch(View v, MotionEvent touchEvent) {
-                return LaunchActivity(touchEvent," _ListViewSortList::onTouchEvent");
+                return LaunchActivity(touchEvent," _ListViewLocationList::onTouchEvent");
             }
         }
         );
 
-        this._ListViewSortList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        this._ListViewLocationList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Log.i(_TAG, "Administration::onItemClick::Sort - Begin");
-                _SelectedSortIndex=position;
+                Log.i(_TAG, "Administration::onItemClick::Location - Begin");
                 CheckedTextView v = (CheckedTextView) view;
-                String SortKind = v.getText().toString();
-                Log.i(_TAG, "Administration::onItemClick::Sort - Item selected at position |"+position+"| is:|" +SortKind+"|");
-                Log.i(_TAG, "Administration::onItemClick::Sort - Begin");
+                String LocationKind = v.getText().toString();
+                Ingredient.SetIngredientSortIndex(position);
+                _ServicesSettings.SetSortIndex(position);
+                _ServicesSettings.SaveSettings(_Context);
+                Log.i(_TAG, "Administration::onItemClick::Location - Item selected at position |"+position+"| is:|" +LocationKind+"|");
+                Log.i(_TAG, "Administration::onItemClick::Location - Begin");
             }
         }
         );
-        this._ListOfSort.add("Type de tri 1");
-        this._ListOfSort.add("Type de tri 2");
-        this._ListOfSort.add("Type de tri 3");
-        this._ListOfSort.add("Type de tri 4");
-        this._ArrayAdapterSortMode = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_checked ,this._ListOfSort);
-        this._ListViewSortList.setAdapter(this._ArrayAdapterSortMode);
-        this._ListViewSortList.setItemChecked(this._SelectedSortIndex, true);
+        this._ListOfLocation = Ingredient.GetListLocationName();
+        this._ArrayAdapterLocation = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_checked ,this._ListOfLocation);
+        this._ListViewLocationList.setAdapter(this._ArrayAdapterLocation);
 
+        int LocationIndex = _ServicesSettings.GetSortType();
+        //Ingredient.SetIngredientSortIndex(LocationIndex);
+        LocationIndex     = Ingredient.GetIngredientSortIndex();
+        Log.i(_TAG, "Administration::onCreate - Location index retrieved from previous run:|"+LocationIndex+"|");
+        this._ListViewLocationList.setItemChecked(LocationIndex, true);
+
+        Log.i(_TAG,"Administration::onCreate - Building element for the language");
         this._TextViewLanguageMode = (TextView)this.findViewById(R.id.LanguageMode);
         this._TextViewLanguageMode.setTypeface(Typeface.DEFAULT_BOLD);
 
@@ -96,9 +98,9 @@ public class Administration extends AppCompatActivity {
                 CheckedTextView v = (CheckedTextView) view;
                 String Language = v.getText().toString();
                 _ServicesSettings.SetLanguage(Language);
-                setTitle(_ServicesNLS.GetTagValue(Administration._Tag_Administration_ActivityName));
-                _TextViewLanguageMode.setText(_ServicesNLS.GetTagValue(Administration._Tag_Administration_LanguageName));
-                _TextViewSortMode.setText(_ServicesNLS.GetTagValue(Administration._Tag_Administration_SortName));
+                setTitle(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_ActivityName));
+                _TextViewLanguageMode.setText(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_LanguageName));
+                _TextViewLocationMode.setText(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_LocationName));
                 _ServicesSettings.SaveSettings(_Context);
                 Log.i(_TAG, "Administration::onItemClick::Language - Item selected at position |"+position+"| is:|" +Language+"|");
                 Log.i(_TAG, "Administration::onItemClick::Language - End");
@@ -174,9 +176,9 @@ public class Administration extends AppCompatActivity {
     protected void onStart() {
         Log.i(_TAG,"Administration::onStart - Begin");
         super.onStart();
-        setTitle(_ServicesNLS.GetTagValue(Administration._Tag_Administration_ActivityName));
-        _TextViewLanguageMode.setText(_ServicesNLS.GetTagValue(Administration._Tag_Administration_LanguageName));
-        _TextViewSortMode.setText(_ServicesNLS.GetTagValue(Administration._Tag_Administration_SortName));
+        setTitle(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_ActivityName));
+        _TextViewLanguageMode.setText(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_LanguageName));
+        _TextViewLocationMode.setText(_ServicesNLS.GetTagValue(ActivityAdministration._Tag_Administration_LocationName));
         Log.i(_TAG,"Administration::onStart - End");
     }
 

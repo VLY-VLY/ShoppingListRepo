@@ -36,7 +36,7 @@ public class _ServicesFiles {
             InputStream in = iContext.getAssets().open(iFileName);
             String AssetPath = iContext.getAssets().toString();
             Log.i(_TAG, "_ServicesFiles::LoadDataFromAssets - AssetPath:|"+AssetPath+"|");
-            Reader = new Scanner(in, _ServicesConstants._CharSet);
+            Reader = new Scanner(in, _ServicesConstants._CHAR_SET);
             while (Reader.hasNextLine()) {
                 String TmpString=Reader.nextLine();
                 ListLines.add(TmpString);
@@ -103,7 +103,7 @@ public class _ServicesFiles {
                 return false;
             }
             for (String TmpString:iLinesToSave) {
-                TmpString=TmpString+ _ServicesConstants._EndOfLine;
+                TmpString=TmpString+ _ServicesConstants._END_OF_LINE;
                 Log.i(_TAG, "_ServicesFiles::SaveInternalDataFile - Writing line:"+TmpString);
                 out.write(TmpString.getBytes());
             }
@@ -118,7 +118,7 @@ public class _ServicesFiles {
         return Result;
     }
 
-    public static ArrayList<String>   ReadInternalDataFile(Context iContext, String iFileName) {
+    public  static ArrayList<String>   ReadInternalDataFile(Context iContext, String iFileName) {
         Log.i(_TAG, "_ServicesFiles::ReadInternalDataFile - Begin");
         ArrayList <String> ResultList = new ArrayList<String>();
         try {
@@ -156,8 +156,8 @@ public class _ServicesFiles {
             File myFile = new File(path);
             FileOutputStream fOut = new FileOutputStream(myFile);
             for (String Line:iLinesToWrite){
-                Line = Line + _ServicesConstants._EndOfLine;
-                fOut.write(Line.getBytes(_ServicesConstants._CharSet));
+                Line = Line + _ServicesConstants._END_OF_LINE;
+                fOut.write(Line.getBytes(_ServicesConstants._CHAR_SET));
             }
             fOut.close();
             Toast.makeText(iContext.getApplicationContext(),
@@ -184,7 +184,7 @@ public class _ServicesFiles {
             String path = extStore.getAbsolutePath() + _ServicesConstants._SLASH + iFileName;
             Log.i(_TAG, "_ServicesFiles::ReadFileInExternalLocation - Reading file:|" + path +"|");
             InputStream in = new FileInputStream(path);
-            Reader = new Scanner(in, _ServicesConstants._CharSet);
+            Reader = new Scanner(in, _ServicesConstants._CHAR_SET);
             while (Reader.hasNextLine()) {
                 String TmpString=Reader.nextLine();
                 FileContent.add(TmpString);

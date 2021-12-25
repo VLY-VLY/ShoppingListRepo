@@ -13,8 +13,8 @@ public class _ServicesTools {
         HashMap<String, String> ContentFile = new HashMap<String, String>();
         for (String Str : iLines) {
             Log.i(_TAG, "_ServicesFiles::BuildHashMapStringStringFromLines - Filling Hashtable with:|" + Str + "|");
-            String Name = new String(Str.substring(0, Str.indexOf(_ServicesConstants._EqualString) + 1));
-            String Value = new String(Str.substring(Str.indexOf(_ServicesConstants._EqualString) + 1, Str.length()));
+            String Name  = new String(Str.substring(0, Str.indexOf(_ServicesConstants._EQUAL_CHARACTER) + 1));
+            String Value = new String(Str.substring(Str.indexOf(_ServicesConstants._EQUAL_CHARACTER) + 1, Str.length()));
             Log.i(_TAG, "_ServicesFiles::BuildHashMapStringStringFromLines - Adding Name-Value:|" + Value + "|->|" + Name + "|");
             ContentFile.put(Name, Value);
         }

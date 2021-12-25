@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppingList">
         <activity
-            android:name=".MainActivityMenuChooser"
+            android:name=".ActivityMainMenuChooser"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,16 +18,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Administration"
+            android:name=".ActivityAdministration"
             android:label="Administration"
             >
         </activity>
         <activity
-            android:name=".MenuSelected"
+            android:name=".ActivitySlctdMenu"
             android:label="MenuSelection">
         </activity>
         <activity
-            android:name=".SelectedIngredients"
+            android:name=".ActivitySlctdIngrdnt"
             android:label="Ingredients">
         </activity>
     </application>

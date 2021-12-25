@@ -14,7 +14,6 @@ public class _ServicesSettings {
     private static       String                  _SortingDefault        = "0";
     private static       String                  _LanguageTag           = "Language=";
     private static       String                  _LanguageDefault       = "Francais";
-    private static       boolean                 _Witness               = false;
     private static       HashMap<String, String> _SettingHashMapContent = null;
 
     public static  boolean  LoadSettings(Context iContext){
@@ -51,7 +50,7 @@ public class _ServicesSettings {
         return Res;
     }
 
-    public static  boolean  SetSortType(int iValue) {
+    public static  boolean  SetSortIndex(int iValue) {
         Log.i(_TAG, "_ServicesSettings::SetSortType - Begin");
         boolean Res = true;
         String Str=Integer.toString(iValue);
@@ -65,7 +64,7 @@ public class _ServicesSettings {
 
     public static  int      GetSortType() {
         Log.i(_TAG, "_ServicesSettings::GetSortType - Begin");
-        String Res = _ServicesSettings.GetSettingValue(_ServicesSettings._LanguageTag);
+        String Res = _ServicesSettings.GetSettingValue(_ServicesSettings._SortingTag);
         if (null==Res)
             Log.i(_TAG, "_ServicesSettings::GetSortType - Failed to get the SortType");
         int ResultConversion = Integer.parseInt(Res);
@@ -118,7 +117,7 @@ public class _ServicesSettings {
         ArrayList <String> SettingFileContent = _ServicesFiles.ReadInternalDataFile(iContext, _ServicesSettings._SettingsFileName);
         if (SettingFileContent == null) {
             Log.i(_TAG, "_ServicesSettings::ReadSettingsFiles - First run, creating a default setting file");
-            String DefaultSorting  = new String(_ServicesSettings._SortingTag +_ServicesConstants._EqualString+ _ServicesSettings._SortingDefault);
+            String DefaultSorting  = new String(_ServicesSettings._SortingTag +_ServicesConstants._EQUAL_CHARACTER+ _ServicesSettings._SortingDefault);
             String DefaultLanguage = new String(_ServicesSettings._LanguageTag + _ServicesSettings._LanguageDefault);
             SettingFileContent = new ArrayList <String> ();
             SettingFileContent.add(new String(_ServicesSettings._SortingTag + _ServicesSettings._SortingDefault));
